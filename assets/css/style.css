@@ -66,3 +66,32 @@ h1 span {
     background-size: cover;
     overflow: hidden;
 }
+
+/* cover text */
+
+#cover-text {
+    height: 60px;
+    width: auto;
+    position: absolute;
+    bottom: 430px;
+    left: 65px;
+}
+
+#cover-text h1 {
+    font-size: 120px;
+    letter-spacing: 5px;
+    display: table;
+}
+
+#cover-text p {
+    font-size: 300%;
+    color:#F17300;
+    display: inline;
+}
+
+#cover-text h1 , p {
+    background-color: rgb(219, 228, 238, 0.9);
+    padding-right: 8px;
+    padding-left: 8px;
+    border-radius: 10px;
+}
