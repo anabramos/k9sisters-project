@@ -13,6 +13,10 @@ body {
     color: #054A91;
 }
 
+hr {
+    border: 2px solid #054A91;
+}
+
 /* headings */
 
 h1 , h2 {
@@ -147,3 +151,55 @@ h1 span {
   text-align: justify;
   padding: 15px;
 }
+/* What we offer */
+
+.cards-box {
+    width: 950px;
+    margin: auto;
+  }
+
+.cards-box h2 {
+    text-align: center;
+    margin: 20px 0px;
+    font-size: 300%;
+    padding: 15px;
+    text-decoration: #F17300 underline;
+    letter-spacing: 3px;
+}
+
+  .cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    background:#3E7CB1;
+    border-radius: 50px;
+    width: 880px;
+    padding: 10px;
+  }
+
+  .service-card {
+    background:#DBE4EE;
+    box-shadow: 0 0 16px rgba(0,0,0,0.1);
+    border-radius: 50px;
+    width: 220px;
+    text-align: center;
+    padding: 20px;
+    margin: 8px;
+  }
+  
+  .service-card img {
+    width: 220px;
+    height: 220px;
+    border-radius: 50px;
+    object-fit: cover;
+  }
+  
+  .service-card h3 {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .service-card p {
+
+  }
+  
