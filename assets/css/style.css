@@ -100,9 +100,6 @@ h1 span {
 
 .slide-left {
     width: 100%;
- }
- 
- .slide-left h1 , p {
     animation: 4s slide-left;
  }
  
@@ -116,3 +113,37 @@ h1 span {
      }
   }
 
+  /* About Us */
+
+  #about-us-image {
+    height: 500px;
+    padding: 80px 50px;  
+}
+
+#about-us-image img {
+    width: 40%;
+    height: 500px;
+    object-fit: cover;
+    border: 6px #F17300 solid;
+}
+
+#about-us-text {
+    width: 45%;
+    height: 500px;
+    position: relative;
+    left: 50%;
+    bottom: 600px;
+}
+
+#about-us-text h2 {
+    font-size: 350%;
+    text-align: center;
+    padding: 15px;
+    text-decoration: #F17300 underline;
+}
+
+#about-us-text p {
+  font-size: 140%;
+  text-align: justify;
+  padding: 15px;
+}
