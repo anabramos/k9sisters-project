@@ -36,11 +36,11 @@ h1 span {
     letter-spacing: 3px;
 }
 
-#menu {
+.menu {
     padding: 15px; 
 }
 
-#menu li {
+.menu li {
     display: inline;
     float: right;
     padding: 15px;
@@ -48,12 +48,12 @@ h1 span {
     font-weight: 800;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: #054A91;
 }
 
-#menu a:hover {
+.menu a:hover {
     border-bottom: 3px solid #F17300;
 }
 
@@ -152,9 +152,9 @@ h1 span {
 }
 
 #about-us-text p {
-  font-size: 140%;
-  text-align: justify;
-  padding: 15px;
+    font-size: 140%;
+    text-align: justify;
+    padding: 15px;
 }
 /* What we offer */
 
@@ -237,15 +237,15 @@ h1 span {
     /* Newsletter */
 
 #newsletter {
-        width: 100%;
-        height: 200px;
-        text-align: center;
-        border: 2px solid #F17300;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    border: 2px solid #F17300;
  }
   
 #newsletter h3 {
-      font-size: 100%;
-      margin: 30px;
+    font-size: 100%;
+    margin: 30px;
 }
 
 #newsletter p {
@@ -255,20 +255,39 @@ h1 span {
 }
 
 #e-mail {
-      width: 250px;
-      height: 40px;
-      margin: 30px 0px 20px 0px;
-      border-radius: 15px;
-      font-size: 15px;
+    width: 250px;
+    height: 40px;
+    margin: 30px 0px 20px 0px;
+    border-radius: 15px;
+    font-size: 15px;
  }
 
 #submit-newsletter {
-      width: 150px;
-      height: 40px;
-      margin: 30px 0px 20px 0px;
-      border-radius: 15px;
-      font-size: 15px;
-      color: #054A91;
-      background-color: #81A4CD;
+    width: 150px;
+    height: 40px;
+    margin: 30px 0px 20px 0px;
+    border-radius: 15px;
+    font-size: 15px;
+    color: #054A91;
+    background-color: #81A4CD;
 }
   
+/* Footer */
+
+.social-media li{
+    display: inline;
+    float: left;
+    margin: 15px;
+    font-size: 25px;
+}
+
+.social-media a {
+    text-decoration: none;
+    color: #054A91;
+}
+
+footer > p {
+    display: inline;
+    float: right;
+    margin: 15px;
+}
