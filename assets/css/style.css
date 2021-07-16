@@ -160,12 +160,12 @@ h1 span {
 }
 /* What we offer */
 
-.cards-box {
+#services-box {
     width: 950px;
     margin: auto;
   }
 
-.cards-box h2 {
+  #services-box h2 {
     text-align: center;
     margin: 20px 0px;
     font-size: 300%;
@@ -203,6 +203,21 @@ h1 span {
   }
 
   /* Our Clients */
+
+  #testimonials-box {
+    width: 950px;
+    margin: auto;
+  }
+
+  #testimonials-box h2 {
+    text-align: center;
+    margin: 20px 0px;
+    font-size: 300%;
+    padding: 15px;
+    color: #DBE4EE;
+    text-decoration: #F17300 underline;
+    letter-spacing: 3px;
+}
 
   #our-clients {
     background:#3E7CB1;
