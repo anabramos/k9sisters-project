@@ -178,6 +178,7 @@ h1 span {
     grid-gap: 20px;
     width: 880px;
     padding: 10px;
+    margin-left: -60px;
   }
 
   .service-card {
