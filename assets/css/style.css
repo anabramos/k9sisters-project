@@ -57,3 +57,12 @@ h1 span {
     border-bottom: 2px solid #F17300;
 }
 
+/* hero image */
+
+#hero-image {
+    height: 580px;
+    width: 100%;
+    background: url("../images/hero-image.jpg") no-repeat center center;
+    background-size: cover;
+    overflow: hidden;
+}
