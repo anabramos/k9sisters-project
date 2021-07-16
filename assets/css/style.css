@@ -119,7 +119,12 @@ h1 span {
 
   /* About Us */
 
-  #about-us-image {
+#about-us {
+    height: 700px;
+    width: 100%;
+}
+
+#about-us-image {
     height: 500px;
     padding: 80px 50px;  
 }
