@@ -147,15 +147,16 @@ h1 span {
 
 #about-us-text h2 {
     font-size: 300%;
-    text-align: center;
+    text-align: left;
     padding: 15px;
     letter-spacing: 3px;
 }
 
 #about-us-text p {
     font-size: 120%;
-    text-align: justify;
+    text-align: left;
     padding: 15px;
+    margin-right: 60px;
 }
 /* What we offer */
 
