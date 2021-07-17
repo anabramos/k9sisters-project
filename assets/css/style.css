@@ -325,6 +325,13 @@ footer > p {
     border: 3px dotted #F17300;
 }
 
+#services-table h2 {
+    text-align: center;
+    margin: 20px 0px;
+    font-size: 300%;
+    padding: 15px;
+    letter-spacing: 3px;
+
 table {
     width: 40%;
     height: 800px;
