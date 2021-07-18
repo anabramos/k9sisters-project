@@ -405,12 +405,13 @@ th, td {
 
 .blog-post {
     width: 280px;
-    padding: 10px;
+    padding-right: 10px;
+    margin: 0px 20px 0px 20px;
   }
   
   .blog-post img {
-    width: 250px;
-    height: 250px;
+    width: 260px;
+    height: 260px;
     border-radius: 20px;
     object-fit: cover;
   }
