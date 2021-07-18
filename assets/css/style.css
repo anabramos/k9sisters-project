@@ -349,11 +349,13 @@ th, td {
 .steelblue-container {
     width: 100%;
     height: 900px;
-    background-color: #3E7CB1;
+    background: url("../images/booking.jpg");
     margin: auto;
     overflow: hidden;
     color:#DBE4EE;
    text-align: center;
+   background-repeat: no-repeat;
+   background-color:#3E7CB1;
 }
 
 .steelblue-container img {
@@ -362,7 +364,15 @@ th, td {
 }
 
 #booking-form {
-    width: 100%;
+    width: 600px;
+    margin: 60px auto auto 700px;
     background-color: #DBE4EE;
     color: #054A91;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.form-group {
+    margin: 20px;
+    text-align: left;
 }
