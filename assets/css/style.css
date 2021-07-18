@@ -378,6 +378,19 @@ th, td {
     padding: 5px;
 }
 
+.form-group input {
+    margin-left: 200px;
+}
+
+.form-group label {
+    position: absolute;
+}
+
+.form-group select {
+    position: relative;
+    left: 200px;
+}
+
 #booking-form fieldset {
     border: 2px dotted #F17300;
     border-radius: 30px;
