@@ -160,12 +160,12 @@ h1 span {
 }
 /* What we offer */
 
-#services-box {
+.container {
     width: 950px;
     margin: auto;
   }
 
-  #services-box h2 {
+.container h2 {
     text-align: center;
     margin: 20px 0px;
     font-size: 300%;
@@ -203,21 +203,7 @@ h1 span {
 
   /* Our Clients */
 
-  #testimonials-box {
-    width: 950px;
-    margin: auto;
-  }
-
-  #testimonials-box h2 {
-    text-align: center;
-    margin: 20px 0px;
-    font-size: 300%;
-    padding: 15px;
-    color: #DBE4EE;
-    letter-spacing: 3px;
-}
-
-  #our-clients {
+  .blue-blackground-580 {
     background:#3E7CB1;
     width: 100%;
     height: 580px;
