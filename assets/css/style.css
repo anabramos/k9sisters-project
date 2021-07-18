@@ -403,18 +403,28 @@ th, td {
 
 /* Blog */
 
-.blog-card {
+.blog-post {
     width: 280px;
     padding: 20px;
   }
   
-  .blog-card img {
+  .blog-post img {
     width: 250px;
     height: 250px;
     border-radius: 20px;
     object-fit: cover;
   }
   
-  .blog-card h3 {
+  .blog-post h3 {
     margin: 15px 0px 15px 0px;
+  }
+
+  .main-blog-post img{ 
+      width: 400px;
+      height: 400px;
+      border-radius: 20px;
+      object-fit: cover;
+      float: left
+
+
   }
