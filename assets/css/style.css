@@ -23,9 +23,11 @@ h1 , h2 {
     font-family: 'Bebas Neue', cursive, sans-serif;
 }
 
-h1 span {
+.text-orange {
     color: #F17300;
 }
+
+
 
 /* logo and navigation bar*/
 
