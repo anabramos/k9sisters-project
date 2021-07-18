@@ -321,8 +321,7 @@ footer > p {
     margin: auto;
     margin-top: 50px;
     color:#DBE4EE;
-    text-align: center;
-    border: 3px dotted #F17300;
+   text-align: center;
 }
 
 #services-table h2 {
@@ -331,16 +330,33 @@ footer > p {
     font-size: 300%;
     padding: 15px;
     letter-spacing: 3px;
+}
 
 table {
     width: 40%;
-    height: 800px;
+    display: -webkit-inline-box;
+    margin: auto;
+    border: 3px solid #F17300;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+/*
+#table-1 {
+    width: 50%;
+    float: left;
 }
 
 #table-2 {
-    position: relative;
+   width: 50%;
+   float: left;
+   
+    /*position: relative;
     left: 40%;
-    bottom: 800px;
+    bottom: 800px;*/
 }
 
 
