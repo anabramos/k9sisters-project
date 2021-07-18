@@ -97,7 +97,7 @@ h1 , h2 {
     display: inline;
 }
 
-#cover-text h1 , p {
+#cover-text h1, #cover-text p {
     background-color: rgb(219, 228, 238, 0.9);
     padding-right: 8px;
     padding-left: 8px;
@@ -402,3 +402,19 @@ th, td {
 }
 
 /* Blog */
+
+.blog-card {
+    width: 280px;
+    padding: 20px;
+  }
+  
+  .blog-card img {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    object-fit: cover;
+  }
+  
+  .blog-card h3 {
+    margin: 15px 0px 15px 0px;
+  }
