@@ -27,11 +27,13 @@ h1 , h2 {
     color: #F17300;
 }
 
-
+.text-aliceblue {
+    color: #DBE4EE;
+}
 
 /* logo and navigation bar*/
 
-#logo {
+.logo {
     float: left;
     padding: 15px;
     font-size: 250%;
