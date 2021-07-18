@@ -34,42 +34,63 @@
 <section>
     <div class="steelblue-container">
     <img src="assets/images/booking.jpg" alt="black and white dog carrying small basket ball">
-        <form>
+        <form id="booking-form">
+            <fieldset>
+                <legend>Book here!</legend>
             <h3>Owner's details</h3>
-            <label for="name">Name</label>
-            <input type="text" id="name" name="name">
-            <label for="email">E-mail</label>
-            <input type="email" id="email" name="email">
-            <label for="telephone">Mobile number</label>
-            <input type="tel" id="telephone" name="telephone">
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name">
+            </div>
+            <div class="form-group">
+                <label for="email">E-mail</label>
+                <input type="email" id="email" name="email">
+            </div>
+            <div class="form-group">
+                <label for="telephone">Mobile number</label>
+                <input type="tel" id="telephone" name="telephone">
+            </div>
             <h3>Dog's details</h3>
-            <label for="dog-name">Name</label>
-            <input type="text" id="dog-name" name="dog-name">
-            <label for="breed">Breed</label>
-            <input type="text" id="breed" name="breed">
-            <label for="allergies">Allergies</label>
-            <input type="tex" id="allergies" name="allergies">
+            <div class="form-group">
+                <label for="dog-name">Name</label>
+                <input type="text" id="dog-name" name="dog-name">
+            </div>
+            <div class="form-group">
+                <label for="breed">Breed</label>
+                <input type="text" id="breed" name="breed">
+            </div>
+            <div class="form-group">
+                <label for="allergies">Allergies</label>
+                <input type="tex" id="allergies" name="allergies">
+            </div>
             <h3>Service</h3>
-            <label for="service">I would like to book a ...</label>
-            <select name="service" id="service">
-                <option value="inatke">Intake conversation (1h) 0€</option>
-                <option value="full-care">Full day care (8h) 9am to 5pm	30€</option>
-                <option value="morning-care">Morning care (4h) 9am to 13pm	18€</option>
-                <option value="afternoon-care">Afternoon care (4h) 13pm to 17pm	18€</option>
-                <option value="sleepover">One night sleepover (14h) 18pm to 8am	40€</option>
-                <option value="weekend-sleepover">Weekend sleepover (48h)	85€</option>
-                <option value="prive-walk">Private walk (2h)	10€</option>
-                <option value="group-walk">Group walk (2h)	6€</option>
-                <option value="morning-play">Morning play-date 9am to 13pm	15€</option>
-                <option value="afternoon-play">Afternoon play-date 13pm to 17pm	15€</option>
-            </select>
-            <label for="date">Date</label>
-            <input type="date" id="date" name="date" min="2021-08-18" max="2021-10-21">
+            <div class="form-group">
+                <label for="service">I would like to book a ...</label>
+                <select name="service" id="service">
+                    <option value="inatke">Intake conversation (1h) 0€</option>
+                    <option value="full-care">Full day care (8h) 9am to 5pm	30€</option>
+                    <option value="morning-care">Morning care (4h) 9am to 13pm	18€</option>
+                    <option value="afternoon-care">Afternoon care (4h) 13pm to 17pm	18€</option>
+                    <option value="sleepover">One night sleepover (14h) 18pm to 8am	40€</option>
+                    <option value="weekend-sleepover">Weekend sleepover (48h)	85€</option>
+                    <option value="prive-walk">Private walk (2h)	10€</option>
+                    <option value="group-walk">Group walk (2h)	6€</option>
+                    <option value="morning-play">Morning play-date 9am to 13pm	15€</option>
+                    <option value="afternoon-play">Afternoon play-date 13pm to 17pm	15€</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="date">Date</label>
+                <input type="date" id="date" name="date" min="2021-08-18" max="2021-10-21">
+            </div>
             <h3>Payment Method</h3>
-            <label for="credit-card">Credit Card</label>
-            <input type="radio" id="credit-card" name="payment" value="credit-card">
-            <label for="direct-transfer">Direct Transfer</label>
-            <input type="radio" id="direct-transfer" name="payment" value="direct-transfer">
+            <div class="form-group">
+                <label for="credit-card">Credit Card</label>
+                <input type="radio" id="credit-card" name="payment" value="credit-card">
+                <label for="direct-transfer">Direct Transfer</label>
+                <input type="radio" id="direct-transfer" name="payment" value="direct-transfer">
+            </div>
+        </fieldset>
         </form>
     </div>
 </section>

@@ -357,6 +357,12 @@ th, td {
 }
 
 .steelblue-container img {
-    height: 900px;
+    height: 850px;
     float: left;
+}
+
+#booking-form {
+    width: 100%;
+    background-color: #DBE4EE;
+    color: #054A91;
 }
