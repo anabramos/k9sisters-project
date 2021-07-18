@@ -419,12 +419,31 @@ th, td {
     margin: 15px 0px 15px 0px;
   }
 
+  .main-blog-post {
+    background-color:#DBE4EE;
+    color: #054A91;
+    height: 420px;
+    width: 94%;
+    margin: auto;
+  }
+
   .main-blog-post img{ 
-      width: 400px;
-      height: 400px;
+      width: 380px;
+      height: 380px;
       border-radius: 20px;
       object-fit: cover;
-      float: left
+      float: left;
+      margin: 20px 0px 40px 40px;
+  }
 
+  .main-blog-post h3 {
+      margin: 40px 40px 40px 0px;
+      text-align: left;
+  }
 
+  .main-post-content {
+      width: 400px;
+      position: relative;
+      left: 500px;
+      bottom: 400px;
   }
