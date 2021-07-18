@@ -339,20 +339,16 @@ th, td {
 .steelblue-container {
     width: 100%;
     height: 900px;
-    background: url("../images/booking.jpg");
     margin: auto;
     overflow: hidden;
     color:#DBE4EE;
    text-align: center;
-   background-repeat: no-repeat;
-   background-color:#3E7CB1;
+   background-color: #3E7CB1;
 }
 
-
-
-.steelblue-container img {
-    height: 850px;
-    float: left;
+.dog-background {
+    background-image: url("../images/booking.jpg");
+    background-repeat: no-repeat;
 }
 
 #booking-form {
@@ -404,3 +400,5 @@ th, td {
     color: #F17300;
     font-size: 200%;
 }
+
+/* Blog */
