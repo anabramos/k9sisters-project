@@ -344,3 +344,19 @@ th, td {
     text-align: left;
   }
 
+/* Booking */
+
+.steelblue-container {
+    width: 100%;
+    height: 900px;
+    background-color: #3E7CB1;
+    margin: auto;
+    overflow: hidden;
+    color:#DBE4EE;
+   text-align: center;
+}
+
+.steelblue-container img {
+    height: 900px;
+    float: left;
+}
