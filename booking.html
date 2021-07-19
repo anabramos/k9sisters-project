@@ -39,33 +39,33 @@
             <h3>Owner's details</h3>
             <div class="form-group">
                 <label for="name">Name</label>
-                <input type="text" id="name" name="name">
+                <input type="text" id="name" name="name" required>
             </div>
             <div class="form-group">
                 <label for="email">E-mail</label>
-                <input type="email" id="email" name="email">
+                <input type="email" id="email" name="email" required>
             </div>
             <div class="form-group">
                 <label for="telephone">Mobile number</label>
-                <input type="tel" id="telephone" name="telephone">
+                <input type="tel" id="telephone" name="telephone" required>
             </div>
             <h3>Dog's details</h3>
             <div class="form-group">
                 <label for="dog-name">Name</label>
-                <input type="text" id="dog-name" name="dog-name">
+                <input type="text" id="dog-name" name="dog-name" required>
             </div>
             <div class="form-group">
                 <label for="breed">Breed</label>
-                <input type="text" id="breed" name="breed">
+                <input type="text" id="breed" name="breed" required>
             </div>
             <div class="form-group">
                 <label for="allergies">Allergies</label>
-                <input type="tex" id="allergies" name="allergies">
+                <input type="tex" id="allergies" name="allergies" required>
             </div>
             <h3>Service</h3>
             <div class="form-group">
                 <label for="service">I would like to book a ...</label>
-                <select name="service" id="service">
+                <select name="service" id="service" required>
                     <option value="inatke">Intake conversation (1h) 0€</option>
                     <option value="full-care">Full day care (8h) 9am to 5pm	30€</option>
                     <option value="morning-care">Morning care (4h) 9am to 13pm	18€</option>
@@ -80,11 +80,11 @@
             </div>
             <div class="form-group">
                 <label for="date">Date</label>
-                <input type="date" id="date" name="date" min="2021-08-18" max="2021-10-21">
+                <input type="date" id="date" name="date" min="2021-08-18" max="2021-10-21" required>
             </div>
             <h3>Payment Method</h3>
             <div class="form-group" class="radio-button">
-                <input type="radio" id="credit-card" name="payment" value="credit-card">
+                <input type="radio" id="credit-card" name="payment" value="credit-card" required>
                 <label for="credit-card">Credit Card</label>
             </div>
             <div class="form-group" class="radio-button">
