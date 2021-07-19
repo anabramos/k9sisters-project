@@ -138,29 +138,25 @@ h1 , h2 {
   /* About Us */
 
 #about-us {
-    height: 600px;
-    width: 100%;
+    text-align: center;
 }
 
 #about-us-image {
-    height: 500px;
-    padding: 80px 50px;  
+    padding: 40px 0px 40px 40px;
+    display: inline-block;
+    vertical-align: top;
 }
 
 #about-us-image img {
-    width: 450px;
-    height: 450px;
-    margin-left: 120px;
-    object-fit: cover;
+    max-height: 450px;
     border: 6px #F17300 solid;
 }
 
 #about-us-text {
-    width: 550px;
-    height: 550px;
-    position: relative;
-    left: 50%;
-    bottom: 600px;
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 40px 40px 40px 0px;
 }
 
 #about-us-text h2 {
