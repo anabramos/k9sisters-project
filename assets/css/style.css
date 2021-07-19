@@ -177,6 +177,11 @@ h1 , h2 {
     letter-spacing: 3px;
 }
 
+.container p {
+    text-align: center;
+    padding: 15px;
+}
+
   .cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
