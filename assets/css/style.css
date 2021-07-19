@@ -539,3 +539,60 @@ th, td {
     margin: auto;
     padding: 30px;
 }
+
+/* Media Queries */
+
+/* For screen sizes from 1200px wide or smaller*/
+@media screen and (max-width: 1200px){
+
+    .logo {
+        font-size: 200%;
+        letter-spacing: 2px;
+    }
+    
+    .menu li {
+        font-size: 110%;
+        font-weight: 800;
+    }
+}
+
+/* For screen sizes from 1024px wide or smaller*/
+@media screen and (max-width: 1024px){
+
+
+
+}
+
+/* For screen sizes from 768px wide or smaller*/
+@media screen and (max-width: 768px){
+    .logo {
+        font-size: 150%;
+        letter-spacing: 1px;
+    }
+
+    .menu li {
+        font-size: 70%;
+        font-weight: 700;
+        padding: 10px;
+    }
+
+    .menu {
+        padding: 10px; 
+    }
+}
+
+/* For screen sizes from 480px wide or smaller*/
+@media screen and (max-width: 480px) {
+    .menu li {
+        font-size: 70%;
+        font-weight: 500;
+        padding: 10px;
+        display: inline-block;
+    }
+
+    .menu {
+        padding: 10px; 
+    }
+}
+
+}

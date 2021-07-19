@@ -81,6 +81,3 @@ Brown long coated dog drying paws on blue towel: Photo by [Jaime Street](https:/
 Woman gives biscuits to two seated dogs: Photo by [Chewy](https://unsplash.com/@chewy) on [Unsplash](https://unsplash.com/)
 
 Dog treats on wooden table: Photo by [Susan Q Yin](https://unsplash.com/@syinq) on [Unsplash](https://unsplash.com/)
-
-
-
