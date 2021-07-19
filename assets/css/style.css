@@ -296,18 +296,37 @@ h1 , h2 {
 }
 
 /* Contact Us*/
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+}
 
 iframe {
     width: 550px; 
     height: 330px; 
     border:0;
-    position: relative;
+    /*position: relative;
     left: 920px;
-    bottom: 150px;
-    border: 3px solid #DBE4EE;
+    bottom: 320px;*/
+    border: 3px solid #F17300;
     border-radius: 50px;
-    
 }
+
+.contact-details {
+    width: 200px;
+    height: 80px;
+    margin-left: 60px;
+}
+
+.contact-details li {
+    list-style: none;
+    border-left: 2px solid #F17300;
+    padding: 10px;
+}
+
 /* Footer */
 
 .social-media li{
