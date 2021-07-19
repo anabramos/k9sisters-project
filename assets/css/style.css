@@ -499,7 +499,7 @@ th, td {
 .full-blog-post {
     background-color:#054A91;
     color: #DBE4EE;
-    height: 900px;
+    height: 1000px;
     width: 100%;
     margin: auto;
     overflow: hidden;
@@ -527,7 +527,7 @@ th, td {
 .full-blog-post p {
     text-align: justify;
     padding: 20px;
-    margin-left: 30px;
+    margin: 0px 40px 0px 40px;
     line-height: 1.3rem;
 }
 
