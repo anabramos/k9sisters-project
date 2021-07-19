@@ -495,3 +495,12 @@ th, td {
     padding: 20px;
     line-height: 25px;
 }
+
+/* Booking confirmation */
+
+.service-desk-dog img{
+    height: 500px;
+    width: auto;
+    margin: auto;
+    padding: 15px;
+}
