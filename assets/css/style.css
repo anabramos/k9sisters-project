@@ -554,11 +554,25 @@ th, td {
         font-size: 110%;
         font-weight: 800;
     }
+
+    #cover-text h1 {
+        font-size: 100px;
+    }
+    
+    #cover-text p {
+        font-size: 250%;
+    }
 }
 
 /* For screen sizes from 1024px wide or smaller*/
 @media screen and (max-width: 1024px){
-
+    #cover-text h1 {
+        font-size: 70px;
+    }
+    
+    #cover-text p {
+        font-size: 130%;
+    }
 
 
 }
@@ -579,20 +593,28 @@ th, td {
     .menu {
         padding: 10px; 
     }
+
+    #cover-text h1 {
+        font-size: 60px;
+    }
+    
+    #cover-text p {
+        font-size: 120%;
+    }
 }
 
 /* For screen sizes from 480px wide or smaller*/
 @media screen and (max-width: 480px) {
     .menu li {
-        font-size: 70%;
         font-weight: 500;
-        padding: 10px;
-        display: inline-block;
+        padding: 10px 5px 10px 5px;
     }
 
-    .menu {
-        padding: 10px; 
+    #cover-text h1 {
+        font-size: 50px;
     }
-}
-
+    
+    #cover-text p {
+        display: none;
+    }
 }
