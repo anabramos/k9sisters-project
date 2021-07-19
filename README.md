@@ -65,7 +65,11 @@ Black and white dog carrying small basketball: Photo by [Stainless Images](https
 
 #### booking-confrimation.html
 
+Brown and white pomeranian working on an iPad: Photo by [Cookie de Pom](https://unsplash.com/@cookiethepom) on [Unsplash](https://unsplash.com/)
+
 #### newsletter-confirmation.html
+
+Brown and white long haired dog sitting on a desk with 2 screens: Photo by [Pavel Herceg](https://unsplash.com/@pavelherceg) on [Unsplash](https://unsplash.com/)
 
 #### blog.html
 
