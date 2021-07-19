@@ -562,6 +562,10 @@ th, td {
     #cover-text p {
         font-size: 250%;
     }
+
+    #hero-image {
+        height: 550px;
+    }
 }
 
 /* For screen sizes from 1024px wide or smaller*/
@@ -572,6 +576,10 @@ th, td {
     
     #cover-text p {
         font-size: 130%;
+    }
+
+    #hero-image {
+        height: 500px;
     }
 
 
@@ -595,11 +603,15 @@ th, td {
     }
 
     #cover-text h1 {
-        font-size: 60px;
+        font-size: 50px;
     }
     
     #cover-text p {
-        font-size: 120%;
+        font-size: 110%;
+    }
+
+    #hero-image {
+        height: 350px;
     }
 }
 
@@ -611,7 +623,7 @@ th, td {
     }
 
     #cover-text h1 {
-        font-size: 50px;
+        font-size: 40px;
     }
     
     #cover-text p {
