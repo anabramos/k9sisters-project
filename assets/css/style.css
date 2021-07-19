@@ -298,13 +298,15 @@ h1 , h2 {
 /* Contact Us*/
 
 iframe {
-    width: 400px; 
-    height: 340px; 
+    width: 550px; 
+    height: 330px; 
     border:0;
     position: relative;
-    left: 630px;
+    left: 920px;
     bottom: 150px;
     border: 3px solid #DBE4EE;
+    border-radius: 50px;
+    
 }
 /* Footer */
 
