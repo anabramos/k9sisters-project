@@ -44,17 +44,24 @@ All images for this website were taken from [Unsplash](https://unsplash.com/).
 #### index.html
 
 Hero-image: Photo by [Anna Dudkova](https://unsplash.com/@annadudkova) on [Unsplash](https://unsplash.com/)
+
 Two young girls holding a dog: Photo by [Leah Hetteberg](https://unsplash.com/@leahhetteberg) on [Unsplash](https://unsplash.com/)
+
 Four dogs on a leash in a park: Photo by [Matt Nelson](https://unsplash.com/@mnelson) on [Unsplash](https://unsplash.com/)
+
 Brown short coated sog lying on a grey dog bed under a blanket: Photo by [Jaime Street](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com/)
+
 Border Collie jumping through a yellow training hoop: Photo by [Andrea Lightfoot](https://unsplash.com/@andreaelphotography) on [Unsplash](https://unsplash.com/)
+
 Dog wearing a shirt and a hat: Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio) on [Unsplash](https://unsplash.com/)
+
 Hairy dog kissing woman in black shirt: Photo by [Tamas Pap](https://unsplash.com/@tamasp) on [Unsplash](https://unsplash.com/)
+
 Long-coated brown dog wearing sun glasses: Photo by [Alan King](https://unsplash.com/@alanking) on [Unsplash](https://unsplash.com/)
 
-#### services.tml
-
 #### booking.html
+
+Black and white dog carrying small basketball: Photo by [Stainless Images](https://unsplash.com/@ramone) on [Unsplash](https://unsplash.com/)
 
 #### booking-confrimation.html
 
