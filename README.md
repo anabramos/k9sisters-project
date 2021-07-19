@@ -73,3 +73,14 @@ Brown and white long haired dog sitting on a desk with 2 screens: Photo by [Pave
 
 #### blog.html
 
+Brown labrador retriever drinking water from a fountain: Photo by [Rafael Ishkhanyan
+](https://unsplash.com/@rafael_ishkhanyan) on [Unsplash](https://unsplash.com/)
+
+Brown long coated dog drying paws on blue towel: Photo by [Jaime Street](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com/)
+
+Woman gives biscuits to two seated dogs: Photo by [Chewy](https://unsplash.com/@chewy) on [Unsplash](https://unsplash.com/)
+
+Dog treats on wooden table: Photo by [Susan Q Yin](https://unsplash.com/@syinq) on [Unsplash](https://unsplash.com/)
+
+
+
