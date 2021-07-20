@@ -221,12 +221,6 @@ animation: 4s slide-left;
 
   .cards {
     display: inline-flex;
-    /*display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 20px;
-    width: 880px;
-    padding: 10px;
-    margin-left: -60px;*/
   }
 
   .service-card {
@@ -286,13 +280,6 @@ animation: 4s slide-left;
 #newsletter h3 {
     font-size: 100%;
     margin: 30px;
-}
-
-#newsletter p {
-   /* width: 60%;
-    text-align: center;
-    margin-left: 300px;*/
-    background: none;
 }
 
 #e-mail {
