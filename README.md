@@ -1,13 +1,23 @@
 # K9 Sisters
 
 ## About K9 Sisters
-
 K9 Sisters is a website for dog sitting services in Amsterdam-West. It is my first project as part of the Diploma in Software Development at Code Institut.
 
 The K9 Sisters project is a user centric (static) Front-End Development website for dog sitting services in Amsterdam-West and sorroundings. It is targeted at dog owners who live and/or work in Amsterdam-West and who make use of dog sitting services regularly or esporadically. 
 
 ### Comment to myself: add link to deployed website
 ### Comment to myself: add mockup images
+
+## User Experience (UX)
+The user experience for the website is build with 3 personas in mind. Each persona presents a different user story and has goals when accessing the website. 
+
+### Personas 
+- Persona 1: Frequent costumer
+- Persona 2: Sporadic costumer
+- Persona 3: Potential costumer (first time visitor)
+
+
+
 
 ## Design
 
