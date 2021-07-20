@@ -714,10 +714,6 @@ th, td {
         padding: 20px 0px;
     }
 
-    #about-us-image img {
-        width: 250px;
-    }
-
     #about-us-text {
         min-width: 35%;
         padding: 10px;
@@ -737,7 +733,22 @@ th, td {
         padding: 0px;
         text-align: justify;
     }
+    
+    .service-card {
+        margin: auto 0;
+        max-width: 100%
+    }
 
+    .service-card img {
+        width: 150px;
+        height: 150px;
+    }
+
+   .cards {
+        display: block;
+   }
+
+}
 
 /* For screen sizes from 480px wide or smaller*/
 @media screen and (max-width: 480px) {
