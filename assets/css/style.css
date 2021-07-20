@@ -64,7 +64,6 @@ h1 , h2 {
 
 .width-33 {
     max-width: 33%;
-    display: inline-block;
 }
 
 /* logo and navigation bar*/
@@ -323,9 +322,7 @@ iframe {
 }
 
 .contact-details {
-    width: 200px;
-    height: 80px;
-    margin-left: 60px;
+    padding: 0 0 20px 20px;
 }
 
 .contact-details li {
@@ -752,7 +749,7 @@ th, td {
     .service-card img {
         display: none;
     }
-
+    
     .testimonial-card img {
         width: 150px;
         height: 150px;
