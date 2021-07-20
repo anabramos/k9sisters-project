@@ -166,11 +166,6 @@ animation: 4s slide-left;
      }
   }
 
-/* @media screen and (min-width: 480px) {
-    .width-33 {
-        width: 100%;
-    }
-} */
 
   /* About Us */
 
@@ -188,7 +183,6 @@ animation: 4s slide-left;
 #about-us-image img {
     max-height: 450px;
     border: 6px #F17300 solid;
-    
 }
 
 #about-us-text {
@@ -213,12 +207,7 @@ animation: 4s slide-left;
 }
 /* What we offer */
 
-.container {
-    width: 950px;
-    margin: auto;
-  }
-
-.container h2 {
+.section-container h2 {
     text-align: center;
     margin: 20px 0px;
     font-size: 300%;
@@ -226,25 +215,24 @@ animation: 4s slide-left;
     letter-spacing: 3px;
 }
 
-.container p {
+.section-container p {
     text-align: center;
     padding: 15px;
 }
 
   .cards {
-    display: grid;
+    display: inline-flex;
+    /*display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
     width: 880px;
     padding: 10px;
-    margin-left: -60px;
+    margin-left: -60px;*/
   }
 
   .service-card {
-    width: 280px;
     text-align: center;
-    padding: 20px;
-    margin: 8px;
+    margin: 10px;
   }
   
   .service-card img {
@@ -254,6 +242,10 @@ animation: 4s slide-left;
     object-fit: cover;
   }
   
+  .service-card p {
+      padding: 10px;
+  }
+
   .service-card h3 {
     margin: 15px 0px 15px 0px;
     text-align: center;
@@ -331,6 +323,7 @@ animation: 4s slide-left;
 }
 
 /* Contact Us*/
+
 .pull-left {
     float: left;
 }
@@ -625,6 +618,10 @@ th, td {
         font-size: 100%;
         margin-right: 60px;
     }
+
+    .section-container h2 {
+        font-size: 200%;
+    }
 }
 
 /* For screen sizes from 1024px wide or smaller*/
@@ -656,6 +653,29 @@ th, td {
         margin-right: 60px;
         padding: 10px;
     }
+
+    .section-container h2 {
+        font-size: 150%;
+    }
+
+    .service-card {
+        text-align: center;
+        margin: 10px;
+      }
+      
+      .service-card img {
+       width: 190px;
+       height: 190px;
+      }
+    
+      .service-card p {
+        font-size: 80%;
+      }
+    
+      .service-card h3 {
+        font-size: 100%; 
+      }
+
 
 
 }
@@ -718,7 +738,6 @@ th, td {
         text-align: justify;
     }
 
-}
 
 /* For screen sizes from 480px wide or smaller*/
 @media screen and (max-width: 480px) {
