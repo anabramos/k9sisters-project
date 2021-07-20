@@ -65,14 +65,14 @@ This website makes use of icons from Font Awesome to give a new visual element a
  - [Font Awesome](https://fontawesome.com/)
 
  ### Tools
- - Gitpod
- - Github
- - Google Chrome Developer Tools
- - Moqups
- - Coolors (color schemes generator)
- - Unsplash
- - W3C HTML Validation Service
- - W3C CSS Validation Service
+ - [Gitpod](https://www.gitpod.io/)
+ - [Github](https://github.com/)
+ - [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
+ - [Moqups](https://moqups.com/)
+ - [Coolors (color schemes generator)](https://coolors.co/)
+ - [Unsplash](https://unsplash.com/)
+ - [W3C HTML Validation Service](https://validator.w3.org/)
+ - [W3C CSS Validation Service](https://validator.w3.org/)
 
  ## Credits
 
