@@ -19,24 +19,29 @@ The user experience for the website is build with 3 personas in mind. Each perso
 ### User stories
 
 A Frequent consumer:
-    - I already know the brand and make use of their services on a regular basis.
-    - I trust and vouch that their service is of quality.
-    - I want to be able to be directed to the booking form quickly. 
-    - I want to receive tips and updates related to their blog and potential holiday discounts. 
+- I already know the brand and make use of their services on a regular basis.
+- I trust and vouch that their service is of quality.
+- I want to be directed to the booking form quickly. 
+- I want to receive tips and updates related to their blog and potential holiday discounts. 
 
 A Sporadic consumer:
-    - I already know the brand and make use of their services sporadically.
-    - I trsut their service is pf quality.
-    - I want to be able to check the prices of the services easily as I may have forgotten it since my last booking.
-    - While in the website, I might be interested in reading their latest article piece with tips on how to care for my pup.
+- I already know the brand and make use of their services sporadically.
+- I trsut their service is pf quality.
+- I want to check the prices of the services easily as I may have forgotten it since my last booking.
+- While in the website, I might be interested in reading their latest article piece with tips on how to care for my pup.
 
 A Potential consumer:
-    - I am a first time visitor to the website. I do not know the brand and have never used their services.
-    - I do not trsu the brand (yet) abd would like to be convinced they are trustworthy.
-    - I want to have a clear overview of the services provided. 
-    - I want to be able to meet the people who will take care of my dog before making a decison.
-    - I want to have a financial incentive to commiting with my first booking.
+- I am a first time visitor to the website. I do not know the brand and have never used their services.
+- I do not trsu the brand (yet) abd would like to be convinced they are trustworthy.
+- I want to have a clear overview of the services provided. 
+- I want to be able to meet the people who will take care of my dog before making a decison.
+- I want to have a financial incentive to commiting with my first booking.
 
+K9 Company goals with the website:
+- Attract more costumers
+- Generate returning costumers
+- Demonstrate professionalism, competence and qualification in the services provided
+- Get potential costumers to sin to our newsletter and book a meet & greet session
 
 
 
