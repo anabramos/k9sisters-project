@@ -392,7 +392,7 @@ th, td {
 
 .steelblue-container {
     width: 100%;
-    height: 900px;
+    /*height: 900px;*/
     margin: auto;
     overflow: hidden;
     color:#DBE4EE;
@@ -545,11 +545,15 @@ th, td {
 
 /* Booking confirmation */
 
+.service-desk-dog{
+    text-align: center;
+    overflow: hidden;
+}
+
 .service-desk-dog img{
-    height: 500px;
-    width: auto;
+    max-height: 600px;
+    width: 60%;
     margin: auto;
-    padding: 30px;
 }
 
 /* Media Queries */
