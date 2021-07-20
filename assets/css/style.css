@@ -66,6 +66,12 @@ h1 , h2 {
     max-width: 33%;
 }
 
+/* This pushes the footer down in smaller html documents*/
+
+.height-90vh {
+    min-height: 90vh;
+}
+
 /* logo and navigation bar*/
 
 .logo {
@@ -551,9 +557,13 @@ th, td {
     overflow: hidden;
 }
 
+.service-desk-dog p {
+    padding: 15px;
+}
+
 .service-desk-dog img{
     max-height: 600px;
-    width: 60%;
+    width: 30%;
     margin: auto;
 }
 
@@ -619,6 +629,10 @@ th, td {
     th, td {
         font-size: smaller;
       }
+    
+    .service-desk-dog img{
+        width: 40%;
+    }
 }
 
 /* For screen sizes from 1024px wide or smaller*/
@@ -683,6 +697,10 @@ th, td {
 
     .social-media li{
         margin: 10px;
+    }
+
+    .service-desk-dog img{
+        width: 50%;
     }
 }
 
@@ -770,6 +788,15 @@ th, td {
     font-size: 13px;
 }
 
+    .service-desk-dog p {
+    padding: 20px;
+}
+
+    .service-desk-dog img{
+    width: 60%;
+    padding: 20px;
+}
+
 }
 
 /* For screen sizes from 560px wide or smaller*/
@@ -813,6 +840,11 @@ th, td {
 
     footer > p {
         font-size: 10px;
+    }
+
+    .service-desk-dog img{
+        width: 65%;
+        padding: 20px;
     }
 
 }
