@@ -667,6 +667,18 @@ th, td {
       .service-card h3 , .testimonial-card h3 {
         font-size: 100%; 
       }
+
+    .social-media i{
+        font-size: 16px;
+    }
+
+    footer > p {
+        font-size: 14px;
+    }
+
+    .social-media li{
+        margin: 10px;
+    }
 }
 
 /* For screen sizes from 768px wide or smaller*/
@@ -745,6 +757,13 @@ th, td {
    table {
     width: 60%;
 }
+    .social-media i{
+    font-size: 15px;
+}
+
+    footer > p {
+    font-size: 13px;
+}
 
 }
 
@@ -776,4 +795,13 @@ th, td {
     th, td {
         font-size: 12px;
       }
+
+      .social-media i{
+        font-size: 12px;
+    }
+
+    footer > p {
+        font-size: 10px;
+    }
+
 }
