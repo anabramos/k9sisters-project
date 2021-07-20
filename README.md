@@ -43,9 +43,11 @@ K9 Company goals with the website:
 - Demonstrate professionalism, competence and qualification in the services provided
 - Get potential costumers to sin to our newsletter and book a meet & greet session
 
-
-
 ## Design
+
+### Colors
+The webiste colors are inspired by the complimentary colors of orange and blue. It uses different shades of blue to create contrast between text and background, and the orange is used to reinforce borders and highlight certain features/sections in the website. 
+<img src="assets/design/color-palette/mycolors.jpg" style="width: 60%" style="height: 120px">
 
 ### Icons
 This website makes use of icons from Font Awesome to give a new visual element and reinforce the content already displayed. The Icons are used to indicate social media links on the website's footer and make a distinction in the types of activities/services provided by the K9 Sisters.
