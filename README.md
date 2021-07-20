@@ -57,12 +57,12 @@ This website makes use of icons from Font Awesome to give a new visual element a
 
 ## Technologies Used
 ### Languages
-- HTML5
-- CSS
+- [HTML5](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
 
 ### Libraries & Frameworks
- - Google Fonts
- - Font Awesome
+ - [Google Fonts](https://fonts.google.com/)
+ - [Font Awesome](https://fontawesome.com/)
 
  ### Tools
  - Gitpod
