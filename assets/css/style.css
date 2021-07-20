@@ -72,6 +72,8 @@ h1 , h2 {
     padding: 15px;
     font-size: 250%;
     letter-spacing: 3px;
+    text-decoration: none;
+    color: #054A91;
 }
 
 .menu {
