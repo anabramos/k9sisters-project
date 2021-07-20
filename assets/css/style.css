@@ -277,11 +277,8 @@ animation: 4s slide-left;
     /* Newsletter */
 
 #newsletter {
-    width: 100%;
-    height: 200px;
     text-align: center;
     border: 5px dotted #F17300;
-    background-color: #3E7CB1;
     color: #DBE4EE;
     padding: 10px;
  }
@@ -292,9 +289,9 @@ animation: 4s slide-left;
 }
 
 #newsletter p {
-    width: 60%;
+   /* width: 60%;
     text-align: center;
-    margin-left: 300px;
+    margin-left: 300px;*/
     background: none;
 }
 
@@ -761,4 +758,11 @@ th, td {
     #cover-text p {
         display: none;
     }
+
+    #e-mail , .submit-button {
+        margin: 10px 0px;
+        font-size: 10px;
+        height: 30px;
+     }
+    
 }
