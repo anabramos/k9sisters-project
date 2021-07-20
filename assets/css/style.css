@@ -216,7 +216,7 @@ animation: 4s slide-left;
 
 .section-container p {
     text-align: center;
-    padding: 15px;
+    padding: 10px;
 }
 
   .cards {
@@ -240,13 +240,9 @@ animation: 4s slide-left;
     border-radius: 50px;
     object-fit: cover;
   }
-  
-  .service-card p {
-      padding: 10px;
-  }
 
   .service-card h3 {
-    margin: 15px 0px 15px 0px;
+    margin: 15px 0px 5px 0px;
     text-align: center;
   }
 
@@ -737,12 +733,12 @@ th, td {
     }
 
     .service-card img {
-        width: 150px;
-        height: 150px;
+        display: none;
     }
 
     .testimonial-card img {
-        display: none;
+        width: 150px;
+        height: 150px;
     }
 
    .cards {
