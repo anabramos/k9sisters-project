@@ -6,6 +6,10 @@
     border: none;
 }
 
+header {
+    overflow: auto;
+}
+
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
@@ -45,6 +49,23 @@ h1 , h2 {
     height: 580px;
 }
 
+.section-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.width-100 {
+    max-width: 100%;
+}
+
+.width-50 {
+    max-width: 50%;
+}
+
+.width-33 {
+    max-width: 33%;
+}
+
 /* logo and navigation bar*/
 
 .logo {
@@ -80,6 +101,9 @@ h1 , h2 {
 }
 
 /* hero image */
+.hero-and-cover-container {
+    position: relative; /* this makes the banner go over the image */
+}
 
 #hero-image {
     height: 580px;
@@ -92,11 +116,17 @@ h1 , h2 {
 /* cover text */
 
 #cover-text {
-    height: 60px;
-    width: auto;
+    /* 
+        height: 60px;
+        width: auto;
+        position: absolute;
+        bottom: 430px;
+        left: 65px; 
+    */
     position: absolute;
-    bottom: 430px;
-    left: 65px;
+    top: 50%;
+    left: 10%;
+    transform: translate(-10%, -50%);
 }
 
 #cover-text h1 {
@@ -121,8 +151,9 @@ h1 , h2 {
 /* animation slide-left for cover text*/
 
 .slide-left {
-    width: 100%;
-    animation: 4s slide-left;
+/*     width: 100%; Might need to fix animation and other styling a bit */    
+
+animation: 4s slide-left;
  }
  
  @keyframes slide-left {
@@ -131,9 +162,15 @@ h1 , h2 {
      }
  
      to {
-        left: 65px;
+        left: 10%;
      }
   }
+
+/* @media screen and (min-width: 480px) {
+    .width-33 {
+        width: 100%;
+    }
+} */
 
   /* About Us */
 
@@ -151,7 +188,7 @@ h1 , h2 {
 #about-us-image img {
     max-height: 450px;
     border: 6px #F17300 solid;
-    min-width: 250px;
+    
 }
 
 #about-us-text {
