@@ -37,15 +37,16 @@ h1 , h2 {
     color: #DBE4EE;
 }
 
-.blue-blackground-350 {
+/*.blue-blackground-350 {
     background:#3E7CB1;
     width: 100%;
     height: 350px;
-}
+}*/
 
-.blue-blackground {
+.blue-background {
     background:#3E7CB1;
     width: 100%;
+    padding: 10px;
 }
 
 .section-container {
@@ -489,14 +490,14 @@ th, td {
 
   .blog-post h3 {
     font-family: 'Bebas Neue', cursive, sans-serif;
+    text-align: left;
     margin: 15px;
     font-size: 200%;
-    text-align: left;
     letter-spacing: 3px;
   }
 
   .blog-post p {
-    text-align: left;
+    text-align: justify;
     padding: 20px;
     line-height: 25px;
 } 
@@ -605,7 +606,7 @@ th, td {
     }
 
     .section-container h2 {
-        font-size: 200%;
+        font-size: 250%;
     }
 
     table {
@@ -652,7 +653,7 @@ th, td {
     }
 
     .section-container h2 {
-        font-size: 150%;
+        font-size: 200%;
     }
 
     .service-card ,  .testimonial-card {
@@ -688,6 +689,11 @@ th, td {
     .service-desk-dog img{
         width: 50%;
     }
+    
+    .blog-post h3 {
+        font-size: 150%;
+    }
+
 }
 
 /* For screen sizes from 768px wide or smaller*/
@@ -783,6 +789,24 @@ th, td {
     padding: 20px;
 }
 
+.blog-post {
+    text-align: center;
+}
+  
+.blog-post img {
+    float: none;
+    max-width: 60%;
+    height: 340px;
+}
+
+.blog-post h3 {
+    font-size: 120%;
+}
+
+.blog-post p {
+    font-size: smaller;
+}
+
 }
 
 /* For screen sizes from 560px wide or smaller*/
@@ -831,6 +855,19 @@ th, td {
     .service-desk-dog img{
         width: 65%;
         padding: 20px;
+    }
+        
+    .blog-post img {
+        max-width: 80%;
+        height: 340px;
+    }
+    
+    .blog-post h3 {
+        font-size: 100%;
+    }
+    
+    .blog-post p {
+        font-size: smaller;
     }
 
 }
