@@ -465,10 +465,19 @@ th, td {
 /* Blog */
 
 .blog-post {
-    width: 280px;
-    padding-right: 10px;
-    margin: 0px 20px 0px 20px;
+    background-color:#DBE4EE;
+    color: #054A91;
+    margin: 20px;
+    border-radius: 20px;
   }
+
+.regular{
+    width: 90%;
+}
+
+.main {
+    width: 94%;
+}
   
   .blog-post img {
     width: 260px;
@@ -484,15 +493,15 @@ th, td {
   .main-blog-post {
     background-color:#DBE4EE;
     color: #054A91;
-    height: 420px;
+    /*height: 420px;*/
     width: 94%;
     margin: auto;
     border-radius: 20px;
   }
 
   .main-blog-post img{ 
-      width: 380px;
-      height: 380px;
+      max-width: 350px;
+      max-height: 350px;
       border-radius: 20px;
       object-fit: cover;
       float: left;
