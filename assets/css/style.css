@@ -430,11 +430,11 @@ th, td {
     display: grid;
 }
 
-/*.form-group input {
-    margin-left: 200px;
+.form-group input , .form-group select {
+    min-height: 28px;
 }
 
-.form-group label {
+/*.form-group label {
     position: absolute;
 }
 
@@ -442,6 +442,11 @@ th, td {
     position: relative;
     left: 200px;
 }*/
+
+.radio-button {
+    display: inline-block;
+    padding: 20px;
+}
 
 .reset-button {
     width: 150px;
@@ -842,7 +847,7 @@ th, td {
         display: none;
     }
 
-    #e-mail , .submit-button {
+    #e-mail , .submit-button , .reset-button {
         margin: 10px 0px;
         font-size: 10px;
         height: 30px;
