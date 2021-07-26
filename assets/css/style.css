@@ -820,8 +820,12 @@ th, td {
     font-size: small;
 }
 
-.form-group h3 {
-    font-size: smaller;
+.radio-button {
+    font-size: 80%;
+}
+
+#booking-form h3 {
+    font-size: 80%;
 }
 
 }
@@ -851,6 +855,7 @@ th, td {
         margin: 10px 0px;
         font-size: 10px;
         height: 30px;
+        width: 120px;
      }
 
      table {
