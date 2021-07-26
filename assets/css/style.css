@@ -408,27 +408,29 @@ th, td {
    background-color: #3E7CB1;
 }
 
-.dog-background {
+/*.dog-background {
     background-image: url("../images/booking.jpg");
     background-repeat: no-repeat;
-}
+}*/
 
 #booking-form {
-    width: 600px;
-    margin: 60px auto auto 700px;
+    max-width: 600px;
+    margin: 0 auto;
     background-color: #DBE4EE;
     color: #054A91;
     padding: 10px;
     border-radius: 30px;
+    text-align: center;
 }
 
 .form-group {
     margin: 15px;
     text-align: left;
     padding: 5px;
+    display: grid;
 }
 
-.form-group input {
+/*.form-group input {
     margin-left: 200px;
 }
 
@@ -439,7 +441,7 @@ th, td {
 .form-group select {
     position: relative;
     left: 200px;
-}
+}*/
 
 .reset-button {
     width: 150px;
@@ -803,6 +805,17 @@ th, td {
 }
 
 .blog-post p {
+    font-size: smaller;
+}
+
+.form-group {
+    margin: 12px;
+    text-align: left;
+    padding: 5px;
+    font-size: small;
+}
+
+.form-group h3 {
     font-size: smaller;
 }
 
