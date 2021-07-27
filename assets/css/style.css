@@ -61,6 +61,12 @@ h1 , h2 {
     max-width: 33%;
 }
 
+input:focus {
+    border: 3px solid #F17300;
+    border-radius: 20px;
+    outline: none;
+}
+
 /* This pushes the footer down in html documents with little code*/
 
 .height-90vh {
@@ -283,12 +289,6 @@ animation: 4s slide-left;
     background-color: #DBE4EE;
     padding: 10px;
  }
-
- #newsletter input:focus {
-    border: 3px solid #F17300;
-    border-radius: 20px;
-    outline: none;
-}
   
 #newsletter h3 {
     font-size: 100%;
@@ -430,6 +430,7 @@ th, td {
 
 .form-group input , .form-group select {
     min-height: 28px;
+    border-radius: 20px;
 }
 
 .radio-button {
