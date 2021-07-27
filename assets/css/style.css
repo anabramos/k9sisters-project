@@ -824,7 +824,11 @@ th, td {
 @media screen and (max-width: 480px) {
     .menu li {
         font-weight: 500;
-        padding: 10px 5px 10px 5px;
+        padding: 10px 3px 10px 3px;
+    }
+
+    .logo {
+        padding: 10px;
     }
 
     #cover-text h1 {
