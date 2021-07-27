@@ -37,12 +37,6 @@ h1 , h2 {
     color: #DBE4EE;
 }
 
-/*.blue-blackground-350 {
-    background:#3E7CB1;
-    width: 100%;
-    height: 350px;
-}*/
-
 .blue-background {
     background:#3E7CB1;
     width: 100%;
@@ -67,7 +61,7 @@ h1 , h2 {
     max-width: 33%;
 }
 
-/* This pushes the footer down in smaller html documents*/
+/* This pushes the footer down in html documents with little code*/
 
 .height-90vh {
     min-height: 90vh;
@@ -110,8 +104,11 @@ h1 , h2 {
 }
 
 /* hero image */
+
+/* this makes the cover text go over the image */
+
 .hero-and-cover-container {
-    position: relative; /* this makes the banner go over the image */
+    position: relative; 
 }
 
 #hero-image {
@@ -125,13 +122,6 @@ h1 , h2 {
 /* cover text */
 
 #cover-text {
-    /* 
-        height: 60px;
-        width: auto;
-        position: absolute;
-        bottom: 430px;
-        left: 65px; 
-    */
     position: absolute;
     top: 50%;
     left: 10%;
@@ -159,8 +149,7 @@ h1 , h2 {
 
 /* animation slide-left for cover text*/
 
-.slide-left {
-/*     width: 100%; Might need to fix animation and other styling a bit */    
+.slide-left {  
 
 animation: 4s slide-left;
  }
@@ -215,6 +204,7 @@ animation: 4s slide-left;
     padding: 15px;
     margin-right: 60px;
 }
+
 /* What we offer */
 
 .section-container h2 {
@@ -363,10 +353,6 @@ footer > p {
 
 #services-table {
     width: 100%;
-    /*height: 900px;
-    background-color: #3E7CB1;
-    margin: auto;
-    margin-top: 50px;*/
     color:#DBE4EE;
     text-align: center;
     overflow: hidden;
@@ -401,7 +387,6 @@ th, td {
 
 .steelblue-container {
     width: 100%;
-    /*height: 900px;*/
     margin: auto;
     overflow: hidden;
     color:#DBE4EE;
@@ -434,15 +419,6 @@ th, td {
 .form-group input , .form-group select {
     min-height: 28px;
 }
-
-/*.form-group label {
-    position: absolute;
-}
-
-.form-group select {
-    position: relative;
-    left: 200px;
-}*/
 
 .radio-button {
     display: inline-block;
