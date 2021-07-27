@@ -510,11 +510,11 @@ th, td {
 } 
 
 .full-blog-post {
-    border: 5px dotted #F17300;
     color: #DBE4EE;
     width: 100%;
     margin: auto;
     overflow: hidden;
+    text-align: center;
   }
 
 .full-blog-post img{ 
@@ -822,6 +822,12 @@ th, td {
 
 .blog-post p {
     font-size: smaller;
+}
+
+.full-blog-post img {
+    float: none;
+    max-width: 60%;
+    height: 300px;
 }
 
 .form-group {
