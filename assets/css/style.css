@@ -867,7 +867,7 @@ th, td {
         display: none;
     }
 
-    #e-mail , .submit-button , .reset-button {
+    #e-mail , .submit-button , .reset-button, .homepage-button {
         margin: 10px 0px;
         font-size: 10px;
         height: 30px;
