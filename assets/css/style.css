@@ -154,7 +154,7 @@ h1 , h2 {
     background-color: rgb(219, 228, 238, 0.9);
     padding-right: 8px;
     padding-left: 8px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 /* animation slide-left for cover text*/
@@ -192,6 +192,7 @@ animation: 4s slide-left;
 #about-us-image img {
     max-height: 450px;
     border: 6px #F17300 solid;
+    border-radius: 20px;
 }
 
 #about-us-text {
@@ -241,7 +242,7 @@ animation: 4s slide-left;
   .service-card img {
     width: 220px;
     height: 220px;
-    border-radius: 50px;
+    border-radius: 20px;
     object-fit: cover;
   }
 
@@ -296,7 +297,7 @@ animation: 4s slide-left;
     width: 250px;
     height: 40px;
     margin: 30px 0px 20px 0px;
-    border-radius: 15px;
+    border-radius: 20px;
     font-size: 15px;
  }
 
@@ -304,7 +305,7 @@ animation: 4s slide-left;
     width: 150px;
     height: 40px;
     margin: 30px 0px 20px 0px;
-    border-radius: 15px;
+    border-radius: 20px;
     font-size: 15px;
     color: #DBE4EE;
     background-color: #054A91;
@@ -325,7 +326,7 @@ iframe {
     height: 300px; 
     margin: 0 30px3px;
     border: 3px solid #F17300;
-    border-radius: 50px;
+    border-radius: 20px;
 }
 
 .contact-details {
@@ -419,7 +420,7 @@ th, td {
     background-color: #DBE4EE;
     color: #054A91;
     padding: 10px;
-    border-radius: 30px;
+    border-radius: 20px;
     text-align: center;
 }
 
@@ -452,7 +453,7 @@ th, td {
     width: 150px;
     height: 40px;
     margin: 10px 0px 10px 0px;
-    border-radius: 15px;
+    border-radius: 20px;
     font-size: 15px;
     color: #054A91;
     background-color: #81A4CD;
@@ -460,7 +461,7 @@ th, td {
 
 #booking-form fieldset {
     border: 2px dotted #F17300;
-    border-radius: 30px;
+    border-radius: 20px;
     padding: 10px;
 }
 
@@ -558,6 +559,7 @@ th, td {
     max-height: 600px;
     width: 40%;
     margin: auto;
+    border-radius: 20px;
 }
 
 /* Media Queries */
