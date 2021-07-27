@@ -718,9 +718,8 @@ th, td {
     #about-us-image {
         padding: 20px 0px;
     }
-
     #about-us-text {
-        min-width: 35%;
+        min-width: 65%;
         padding: 10px;
         display: block;
         margin: 0 auto;
