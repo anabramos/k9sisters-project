@@ -892,4 +892,16 @@ th, td {
         font-size: smaller;
     }
 
+    .form-group input, .form-group select {
+        min-width: 100px;
+    }
+
+    .radio-button {
+        padding: 10px;
+    }
+
+    #booking-form {
+        min-width: 200px;
+    }
+
 }
