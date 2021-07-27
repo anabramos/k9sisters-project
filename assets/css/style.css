@@ -363,21 +363,21 @@ footer > p {
 
 /* Services */
 
-#services-table {
+.services-table {
     width: 100%;
     color:#DBE4EE;
     text-align: center;
     overflow: hidden;
 }
 
-#services-table h2 {
+.services-table h2 {
     margin: 20px 0px;
     font-size: 300%;
     padding: 15px;
     letter-spacing: 3px;
 }
 
-#services-table p {
+.services-table p {
     padding: 20px;
 }
 
