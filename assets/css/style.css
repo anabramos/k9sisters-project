@@ -273,10 +273,18 @@ animation: 4s slide-left;
 
 #newsletter {
     text-align: center;
-    border: 5px dotted #F17300;
-    color: #DBE4EE;
+    border: 5px solid #F17300;
+    border-radius: 20px;
+    color: #054A91;
+    background-color: #DBE4EE;
     padding: 10px;
  }
+
+ #newsletter input:focus {
+    border: 3px solid #F17300;
+    border-radius: 20px;
+    outline: none;
+}
   
 #newsletter h3 {
     font-size: 100%;
