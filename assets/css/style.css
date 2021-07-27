@@ -228,6 +228,10 @@ animation: 4s slide-left;
     text-align: center;
     margin: 10px;
   }
+
+  .service-card i {
+      display: none;
+  }
   
   .service-card img {
     width: 220px;
@@ -756,6 +760,10 @@ th, td {
 
     .service-card img {
         display: none;
+    }
+
+    .service-card i {
+        display: inline;
     }
     
     .testimonial-card img {
