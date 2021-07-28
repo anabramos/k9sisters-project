@@ -10,7 +10,6 @@ The K9 Sisters project is a user centric (static) Front-End Development website 
 
 ## Features
 
-
 ### Navigation Bar
 - The navigation bar is situated at the top of the page, with the logo of the K9 Sisters to the left and the menu to the right. The menu brings the visitor to the 4 main pages of the website: Home, Services, Booking, and Blog. 
 - An orange underline appears static under the menu page the visiot is current in to give clarity of the navigation. A thicker orange underline appears when the mouse hovers on the other pages that are currently not opened (active).
@@ -68,6 +67,8 @@ The K9 Sisters project is a user centric (static) Front-End Development website 
     - The visitor ca read the full article content in this page.
 
 ## Testing
+
+- The website is fully responsive
 
 ### Validator Testing
 
@@ -149,7 +150,10 @@ This website makes use of icons from Font Awesome to give a new visual element a
  ## Credits
 
  ### Content
- All code for this project, as well as text content was written by Ana Ramos Barretto
+ 
+- For the booking form input field "tel" I have used the pattern attribute value provided by [Martin Wolf](https://martinwolf.org/before-2018/blog/2015/04/html5-telephone-input-validation/) 2015. This assured that only numeric numbers in a certain pattern could be inputed into the form. 
+
+All other code was written by myself: Ana Ramos Barretto
 
  ### Media
 All images for this website were taken from [Unsplash](https://unsplash.com/).
@@ -194,3 +198,7 @@ Brown long coated dog drying paws on blue towel: Photo by [Jaime Street](https:/
 Woman gives biscuits to two seated dogs: Photo by [Chewy](https://unsplash.com/@chewy) on [Unsplash](https://unsplash.com/)
 
 Dog treats on wooden table: Photo by [Susan Q Yin](https://unsplash.com/@syinq) on [Unsplash](https://unsplash.com/)
+
+## Acknowledgements
+
+Here I am going to write some nice things about people that helped me because apparently everyone does that
