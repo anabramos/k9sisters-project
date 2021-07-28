@@ -8,6 +8,65 @@ The K9 Sisters project is a user centric (static) Front-End Development website 
 ### Comment to myself: add link to deployed website
 ### Comment to myself: add mockup images
 
+## Features
+
+
+### Navigation Bar
+- The navigation bar is situated at the top of the page, with the logo of the K9 Sisters to the left and the menu to the right. The menu brings the visitor to the 4 main pages of the website: Home, Services, Booking, and Blog. 
+- An orange underline appears static under the menu page the visiot is current in to give clarity of the navigation. A thicker orange underline appears when the mouse hovers on the other pages that are currently not opened (active).
+- The K9 Sisters logo also functions as an anchor link to the homepage.
+
+### Hero Image & cover text
+- The hero image brings a very clear picture of the focus of the website together with its cover text. Here a visitor immediately knows what are the k9 Sisters and what they will be able to find in this website.
+- A short animation is present in the cover text to call the atention of the visitor to the message on the text.
+- For the mobile version, in the cover text we see only the name of the company not to echo with the hero image.
+
+### About Us section
+- The about us section presents to the visitor the people behind K9 Sisters in a nice and funny way as well as the mission of the company. The text is accompanied by an old image of the two sisters who started out the K9 Sisters.
+- At the end of the About us section, visitors are invited through a link to book a free meet and greet with the K9 Sisters.
+
+### What we offer section
+- In this section the visitor is offered a small teaser of some of the services offered by the K9 Sisters. 
+- The link under the three examples invites the visitor to check the overview of all services provided. 
+
+### Testimonials section
+- Here the visitor can read testimonials of existing clients (dogs and humans) that support and validate the brand. 
+
+### Newsletter section
+- The newsletter section has an e-mail input field to collect subscriptions to the newsletter. 
+- The newsletter subscription gives the visitor access to unique content including discounts on the services.
+- When submitting a newsletter, the visitor is directed to a confirmation page.
+
+    #### Newsletter confirmation section
+    - The user receives a confirmation message that his subscription has been received. 
+    - A button is also offering the user to return to the homepage
+
+### Contact Us section
+- The contact us section provides information on how one can get in contact with the K9 SIsters via: telephone, e-mail and address. 
+- It also provides with an iframe map of the location where the business is located for reference and facilitating the visualization of the address in Amsterdam West.
+
+### Footer
+- The footer will re-direct the user to our respective social medias by opening the external pages in a new tab on the browser. 
+- The footer also credits the creator of the website. 
+
+### Services page
+- In the services page visitors can access the full overview of services provided by the K9 Sister company as well as the prices per service. 
+
+### Booking page
+- In the booking page there is a form for users to book their services as prefered. All fiels are required for the booking except the 'allergies' field since this field might also not apply. 
+- The form collects data related to the owner (contact details) the dog (general details) and the service the costumer is booking (type of service, date of service and paymenth method of choice).
+- After filling in the form, the costumer can submit the form or clear (reset) its content.
+- When a form is submitted,  the visitor is directed to a confirmation page.
+    #### Booking confirmation
+    - The user receives a confirmation message that his booking has been confirmed. 
+    - A button is also offering the user to return to the homepage
+
+### Blog page
+- In the blog page visitors can have access to a range of dog related content, created by the K9 Sistsers. 
+- By scrolling down the visitor can see all published blog posts and click on 'continue reading' to open the entire article on a new page. 
+    #### Full Article page
+    - The visitor ca read the full article content in this page.
+
 ## User Experience (UX)
 The user experience for the website is build with 3 personas in mind. Each persona presents a different user story and different goals when accessing the website. 
 
