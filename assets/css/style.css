@@ -336,7 +336,7 @@ animation: 4s slide-left;
 iframe {
     width: 90%; 
     height: 300px; 
-    margin: 0 30px3px;
+    margin: 0 30px 3px;
     border: 3px solid #F17300;
     border-radius: 20px;
 }
@@ -925,5 +925,4 @@ th, td {
     #booking-form {
         min-width: 200px;
     }
-
 }
