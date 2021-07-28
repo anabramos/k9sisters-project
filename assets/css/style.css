@@ -134,7 +134,7 @@ input:focus {
     transform: translate(-10%, -50%);
 }
 
-#cover-text h1 {
+#cover-text h2 {
     font-size: 120px;
     letter-spacing: 5px;
     display: table;
@@ -146,7 +146,7 @@ input:focus {
     display: inline;
 }
 
-#cover-text h1, #cover-text p {
+#cover-text h2, #cover-text p {
     background-color: rgb(219, 228, 238, 0.9);
     padding-right: 8px;
     padding-left: 8px;
@@ -582,7 +582,7 @@ th, td {
         font-weight: 800;
     }
 
-    #cover-text h1 {
+    #cover-text h2 {
         font-size: 100px;
     }
     
@@ -637,7 +637,7 @@ th, td {
 
 /* For screen sizes from 1024px wide or smaller*/
 @media screen and (max-width: 1024px){
-    #cover-text h1 {
+    #cover-text h2 {
         font-size: 70px;
     }
     
@@ -730,7 +730,7 @@ th, td {
         height: 350px;
     }
 
-    #cover-text h1 {
+    #cover-text h2 {
         font-size: 50px;
         padding: 5px;
     }
@@ -864,7 +864,7 @@ th, td {
         padding: 10px;
     }
 
-    #cover-text h1 {
+    #cover-text h2 {
         font-size: 40px;
         margin-top: 150px;
     }
