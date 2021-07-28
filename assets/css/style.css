@@ -470,6 +470,12 @@ th, td {
     font-size: 200%;
 }
 
+#booking-form h2 {
+    margin: 10px 0px;
+    font-size: 200%;
+    padding: 10px;
+}
+
 /* Blog */
 
 .blog-post {
