@@ -553,6 +553,7 @@ th, td {
     margin: 0px 40px 0px 40px;
     line-height: 1.3rem;
     padding: 10px;
+    text-align: left;
 }
 
 /* Booking confirmation */
@@ -855,12 +856,15 @@ th, td {
 
 /* For screen sizes from 560px wide or smaller*/
 @media screen and (max-width: 560px) {
+
     .width-50 {
         width: 100%;
     }
+}
 
 /* For screen sizes from 480px wide or smaller*/
 @media screen and (max-width: 480px) {
+
     .menu li {
         font-weight: 500;
         padding: 10px 3px 10px 3px;
