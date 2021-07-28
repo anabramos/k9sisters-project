@@ -77,6 +77,9 @@ The K9 Sisters project is a user centric (static) Front-End Development website 
 #### CSS
 - No errors or warnings returned from the [W3C CSS Validator Service](https://jigsaw.w3.org/css-validator/)
 
+#### Accessibility
+- The website has been tested on lighthouse for accessibility and received a score of 100 for all pages, except the booking page that scroed 96.
+
 ## User Experience (UX)
 The user experience for the website is build with 3 personas in mind. Each persona presents a different user story and different goals when accessing the website. 
 
