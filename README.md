@@ -65,6 +65,8 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 - The footer will re-direct the user to our respective social medias by opening the external pages in a new tab on the browser. 
 - The footer also credits the creator of the website. 
 
+<img src="assets/design/features/footer.png" style="width: 80%">
+
 ### Services page
 - In the services page visitors can access the full overview of services provided by the K9 Sister company as well as the prices per service. 
 
