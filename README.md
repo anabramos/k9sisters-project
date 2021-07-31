@@ -40,6 +40,9 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 ### Testimonials section
 - Here the visitor can read testimonials of existing clients (dogs and humans) that support and validate the brand. 
 
+<img src="assets/design/features/testimonials-section.png" style="width: 60%">
+
+
 ### Newsletter section
 - The newsletter section has an e-mail input field to collect subscriptions to the newsletter. 
 - The newsletter subscription gives the visitor access to unique content including discounts on the services.
