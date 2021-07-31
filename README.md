@@ -138,7 +138,7 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 ### Component level Testing
 
 - Compatibility & Responsiveness
-    - The website was tested and it is working on different browsers: Google Chrome, Firefox, and Internet Explorer/Microsoft Edge.
+    - The website was tested and it is working on different browsers: Google Chrome, Firefox, and Microsoft Edge.
     - Tested on different devices using Chrome DevTools and other available from myself and friends. 
     - The website is responsive on screen widths from 2560px to 320px.
 
