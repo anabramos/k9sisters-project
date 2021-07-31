@@ -42,15 +42,19 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 
 <img src="assets/design/features/testimonials-section.png" style="width: 60%">
 
-
 ### Newsletter section
 - The newsletter section has an e-mail input field to collect subscriptions to the newsletter. 
 - The newsletter subscription gives the visitor access to unique content including discounts on the services.
 - When submitting a newsletter, the visitor is directed to a confirmation page.
 
-    #### Newsletter confirmation section
-    - The user receives a confirmation message that his subscription has been received. 
-    - A button is also offering the user to return to the homepage
+<img src="assets/design/features/newsletter-section.png" style="width: 60%">
+
+#### Newsletter confirmation section
+- The user receives a confirmation message that his subscription has been received. 
+- A button is also offering the user to return to the homepage
+
+<img src="assets/design/features/newsletter-confirmation-section.png" style="width: 40%">
+
 
 ### Contact Us section
 - The contact us section provides information on how one can get in contact with the K9 SIsters via: telephone, e-mail and address. 
