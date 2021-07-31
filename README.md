@@ -9,6 +9,14 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 
 <img src="assets/design/am-i-responsive/am-i-responsive.png" style="width: 60%" />
 
+## Table of Contents
+1. [Features](#features)
+2. 
+3. 
+4. 
+
+<a name="features">
+
 ## Features
 
 - Navigation Bar
