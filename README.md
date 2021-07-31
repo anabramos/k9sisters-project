@@ -17,8 +17,6 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 - The K9 Sisters logo also functions as an anchor link to the homepage.
 
 <img src="assets/design/features/navigation-bar.png" style="width: 80%" style="height: 100px">
-<br>
-
 
 ### Hero Image & cover text
 - The hero image brings a very clear picture of the focus of the website together with its cover text. Here a visitor immediately knows what are the k9 Sisters and what they will be able to find in this website.
@@ -36,6 +34,8 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 ### What we offer section
 - In this section the visitor is offered a small teaser of some of the services offered by the K9 Sisters. 
 - The link under the three examples invites the visitor to check the overview of all services provided. 
+
+<img src="assets/design/features/what-we-offer-section.png" style="width: 60%">
 
 ### Testimonials section
 - Here the visitor can read testimonials of existing clients (dogs and humans) that support and validate the brand. 
