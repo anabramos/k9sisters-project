@@ -3,7 +3,7 @@
 ## About K9 Sisters
 K9 Sisters is a website for dog sitting services in Amsterdam-West. It is my first project as part of the Diploma in Software Development at Code Institute.
 
-The K9 Sisters project is a user centric (static) Front-End Development website for dog sitting services in Amsterdam-West and sorroundings. It is targeted at dog owners who live and/or work in Amsterdam-West and who make use of dog sitting services regularly or esporadically. 
+The K9 Sisters project is a user centric (static) Front-End Development website for dog sitting services in Amsterdam-West and surroundings. It is targeted at dog owners who live and/or work in Amsterdam-West and who make use of dog sitting services regularly or sporadically. 
 
 Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project/)
 
@@ -13,21 +13,21 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 
 - Navigation Bar
     - The navigation bar is situated at the top of the page, with the logo of the K9 Sisters to the left and the menu to the right. The menu brings the visitor to the 4 main pages of the website: Home, Services, Booking, and Blog. 
-    - An orange underline appears static under the menu page the visiot is current in to give clarity of the navigation. A thicker orange underline appears when the mouse hovers on the other pages that are currently not opened (active).
+    - An orange underline appears static under the menu page refering to where in the website the visitor is current in. This gives clarity of the navigation. A thicker orange underline appears when the mouse hovers on the other pages that are currently not opened (active).
     - The K9 Sisters logo also functions as an anchor link to the homepage.
 
         <img src="assets/design/features/navigation-bar.png" style="width: 60%" style="height: 100px">
 
 - Hero Image & cover text
-    - The hero image brings a very clear picture of the focus of the website together with its cover text. Here a visitor immediately knows what are the k9 Sisters and what they will be able to find in this website.
-    - A short animation is present in the cover text to call the atention of the visitor to the message on the text.
+    - The hero image brings a very clear picture of the focus of the website together with its cover text. Here a visitor immediately knows what is the k9 Sisters company and what they will be able to find in this website.
+    - A short animation is present in the cover text to call the attention of the visitor to the message on the text.
     - For the mobile version, in the cover text we see only the name of the company not to echo with the hero image.
 
         <img src="assets/design/features/hero-image-feature.png" style="width: 60%">
 
 - About Us section
     - The about us section presents to the visitor the people behind K9 Sisters in a nice and funny way as well as the mission of the company. The text is accompanied by an old image of the two sisters who started out the K9 Sisters.
-    - At the end of the About us section, visitors are invited through a link to book a free meet and greet with the K9 Sisters.
+    - At the end of the 'About Us' section, visitors are invited through a link to book a free meet and greet with the K9 Sisters.
 
         <img src="assets/design/features/about-us-feature.png" style="width: 60%">
 
@@ -38,7 +38,8 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
         <img src="assets/design/features/what-we-offer-section.png" style="width: 60%">
 
 - Testimonials section
-    - Here the visitor can read testimonials of existing clients (dogs and humans) that support and validate the brand. 
+    - Here the visitor can read testimonials of existing clients (dogs and humans) that support and validate the brand.
+    - This gives the visitor more reassurance that the business is trustworthy. 
 
         <img src="assets/design/features/testimonials-section.png" style="width: 60%">
 
@@ -62,21 +63,23 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
         <img src="assets/design/features/contact-us-section.png" style="width: 60%">
 
 - Footer
-    - The footer will re-direct the user to our respective social medias by opening the external pages in a new tab on the browser. 
+    - The footer will re-direct the user to our respective social media by opening the external pages in a new tab on the browser. 
     - The footer also credits the creator of the website. 
 
         <img src="assets/design/features/footer.png" style="width: 60%">
 
 - Services page
-    - In the services page visitors can access the full overview of services provided by the K9 Sister company as well as the prices per service. 
+    - In the services page visitors can access the full overview of services provided by the K9 Sister company.
+    - The overview includes the prices per service and duration of each service. 
+    - Icons are added to this page to give a better illustration of the sort or service that is being offered.
 
         <img src="assets/design/features/services-overview.png" style="width: 40%">
 
 - Booking page
-    - In the booking page there is a form for users to book their services as prefered.
-    - The form collects data related to the owner (contact details) the dog (general details) and the service the costumer is booking (type of service, date of service and paymenth method of choice).
+    - In the booking page there is a form for users to book their services as preferred.
+    - The form collects data related to the owner (contact details) the dog (general details) and the service the costumer is booking (type of service, date of service and payment method of choice).
     - After filling in the form, the costumer can submit the form or clear (reset) its content.
-    - When a form is submitted,  the visitor is directed to a confirmation page.
+    - When a form is submitted, the visitor is directed to a confirmation page.
 
         <img src="assets/design/features/booking-form.png" style="width: 30%">
 
@@ -87,7 +90,7 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
         <img src="assets/design/features/booking-confirmation.png" style="width: 40%">
 
 - Blog page
-    - In the blog page visitors can have access to a range of dog related content, created by the K9 Sistsers. 
+    - In the blog page visitors can have access to a range of dog related content, created by the K9 Sisters. 
     - By scrolling down the visitor can see all published blog posts and click on 'continue reading' to open the entire article on a new page. 
 
         <img src="assets/design/features/blog-page.png" style="width: 40%">
@@ -98,9 +101,9 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
         <img src="assets/design/features/blog-full.png" style="width: 50%">
 
 ### Features to be implemented
-- Implement carroussel gallery of testimonials from clients in the homepage
+- Implement carrousel gallery of testimonials from clients in the homepage
 - In the booking form give the possibility for users to add extra dogs to the bookings (for those who have more than one dog)
-- Have a personalized booking confirmation page using the data inputed into the form (i.e. naming the dog's name and time of pick-up). 
+- Have a personalized booking confirmation page using the data inputted into the form (i.e. naming the dog's name and time of pick-up). 
 - Payment processing feature
 - Create account/log-in features for regular clients 
 
@@ -109,8 +112,8 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 ### Component level Testing
 
 - Compatibility & Responsiveness
-    - The website was tested and it is working on different browsers: Google Chrome, Firefox, Internet Explorer/Microsoft Edge.
-    - Tested on different devices using Chrome DevTools and other avaliable from myself and friends. 
+    - The website was tested and it is working on different browsers: Google Chrome, Firefox, and Internet Explorer/Microsoft Edge.
+    - Tested on different devices using Chrome DevTools and other available from myself and friends. 
     - The website is responsive on screen widths from 2560px to 320px.
 
 - Navigation bar
@@ -123,13 +126,13 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 
 - Booking form
     - The booking form is working and redirecting users to the confirmation page.
-    - All input fiels are required for the booking except the 'allergies' field since this field might also not apply. If any of the fields is left blank, the user is asked to properly fill in the field.
+    - All input fields are required for the booking except the 'allergies' field since this field might also not apply. If any of the fields is left blank, the user is asked to properly fill in the field.
     - For the mobile number field (input type="tel") I have used a pattern provided by [Martin Wolf](https://martinwolf.org/before-2018/blog/2015/04/html5-telephone-input-validation/) (see credits section of this document) to assure that only valid numbers can be filled in the booking form. 
-    - The avalibility in the calenday was mannualy set to assure there is no possibility of booking services in the past or last minute. 
+    - The availability in the calendar was manually set to assure there is no possibility of booking services in the past or last minute. 
 
 - Social media links (footer)
     - All social media links are working and opening on a separate new tab on the browser.
-    - In the iframe map when cliked on "View larger maps", the link opens on a separate new tab on the browser.
+    - In the iframe map when clicked on "View larger maps", the link opens on a separate new tab on the browser.
 
 ### User level Testing
 Friends of mine tested the website in their own mobiles, laptops, etc. The website was also submitted in the peer-code-review channel on the CI Slack community.  
@@ -138,9 +141,9 @@ Friends of mine tested the website in their own mobiles, laptops, etc. The websi
     - No issues reported
 
 - Website Responsiveness
-    - Issue reported with footer spacing on screen widths larger than 1256px. Changes to address this issue were implemented by giving containers and background a minimum height in vh. 
+    - Issue reported with footer spacing on screen widths larger than 1256px. Changes to address this issue were implemented by giving containers and background a minimum height (in viewport height). 
     - Issue reported with font-size being too small on screen sizes with width 1024px to 768px. Changes to address this issue were implemented by giving font-sizes a relative units of measurements. 
-    - Issue reported with alignment of iframe map in mobile screens being too close to the left instead of central. Changes to address this issue were implemented by giving the element a specific margin whithin the respective media query.
+    - Issue reported with alignment of iframe map in mobile screens being too close to the left instead of central. Changes to address this issue were implemented by giving the element a specific margin within the respective media query.
 
 - Booking form
     - Issue reported with mobile number field that was accepting non numeral input. Changes to address this issue were implemented by using an existing pattern attribute (see credits section of this document).
@@ -149,11 +152,11 @@ Friends of mine tested the website in their own mobiles, laptops, etc. The websi
     - No issues reported.
 
 ### Bugs
-While building the website a lot of things were not working as expected. As I used only HTML5 and CSS, most of the 'bugs' are as a matter of fact just a mis-use of CSS styling. This happened mostly because in the begginig of the process of building the website I was using id attributes and selectors to style my HTML. Half-way trough the process I realized the best approach was to create more general CCS style class rules and use those to create the behavious expected on the HTML documents. These fixes and changes can be seen in my commit messages documentation, initiated by the prefix 'fix:' or 'style: fix'. Some recurrent bugs I encountered were:
+While building the website a lot of things were not working as expected. As I used only HTML5 and CSS, most of the 'bugs' are as a matter of fact just a miss-use of CSS styling. This happened mostly because in the beginning of the process of building the website I was using id attributes and selectors to style my HTML. Half-way through the process I realized the best approach was to create more general CCS style class rules and use those to create the behaviors expected on the HTML documents. These fixes and changes can be seen in my commit messages documentation, initiated by the prefix 'fix:' or 'style: fix'. Some recurrent bugs I encountered were:
 
-- Horizontal scroll present on small screen devices, normally caused by the margin or padding or other elements thatcreate overflow. After identifying which element was creating the overflow I fixed it by changing the value of the left and right margin/padding. 
+- Horizontal scroll present on small screen devices, normally caused by the margin or padding or other elements that create overflow. After identifying which element was creating the overflow I fixed it by changing the value of the left and right margin/padding. 
 
-- Footer with a lot of space beneath it caused by HTML documents with very few content. I solved this by adding a minimum height value (viewport heigh measurement) to the respective container and background of the page that was presenting this bug. This assures the footer stayed stucked to the bottom of the page
+- Footer with a lot of space beneath it caused by HTML documents with very few content. I solved this by adding a minimum height value (viewport height measurement) to the respective container and background of the page that was presenting this bug. This assures the footer stayed on the bottom of the page
 
 ### Validator Testing
 
@@ -211,7 +214,7 @@ The website was deployed using GitHub Pages. For that, the following steps were 
         3. Make sure to credit the project in case you decide to use any of the original code.
 
 ## User Experience (UX)
-The user experience for the website is build with 3 personas in mind. Each persona presents a different user story and different goals when accessing the website. 
+The user experience for the website is built with 3 personas in mind. Each persona presents a different user story and different goals when accessing the website. 
 
 - Personas 
     - Persona 1: Frequent costumer
@@ -228,27 +231,27 @@ The user experience for the website is build with 3 personas in mind. Each perso
 
     - A Sporadic consumer:
         - I already know the brand and make use of their services sporadically.
-        - I trsut their service is pf quality.
+        - I trust their service is pf quality.
         - I want to check the prices of the services easily as I may have forgotten it since my last booking.
         - While in the website, I might be interested in reading their latest article piece with tips on how to care for my pup.
 
     - A Potential consumer:
         - I am a first time visitor to the website. I do not know the brand and have never used their services.
-        - I do not trsu the brand (yet) abd would like to be convinced they are trustworthy.
+        - I do not trust the brand (yet) and would like to be convinced they are trustworthy.
         - I want to have a clear overview of the services provided. 
-        - I want to be able to meet the people who will take care of my dog before making a decison.
-        - I want to have a financial incentive to commiting with my first booking.
+        - I want to be able to meet the people who will take care of my dog before making a decision.
+        - I want to have a financial incentive to committing with my first booking.
 
 - K9 Company goals with the website:
-    - Attract more costumers
+    - Attract more customers
     - Generate returning costumers
     - Demonstrate professionalism, competence and qualification in the services provided
-    - Get potential costumers to sin to our newsletter and book a meet & greet session
+    - Get potential customers to sin to our newsletter and book a meet & greet session
 
 ## Design
 
 - Colors
-    - The webiste colors are inspired by the complimentary colors of orange and blue. It uses different shades of blue to create contrast between text and background, and the orange is used to reinforce borders and highlight certain features/sections in the website. 
+    - The website colors are inspired by the complimentary colors of orange and blue. It uses different shades of blue to create contrast between text and background, and the orange is used to reinforce borders and highlight certain features/sections in the website. 
     <img src="assets/design/color-palette/mycolors.jpg" style="width: 60%" style="height: 120px">
 
 - Fonts
@@ -289,7 +292,7 @@ The user experience for the website is build with 3 personas in mind. Each perso
 
 - Content
  
-    - For the booking form input field type "tel" I have used the pattern attribute value provided by [Martin Wolf](https://martinwolf.org/before-2018/blog/2015/04/html5-telephone-input-validation/) 2015. This assured that only numeric numbers in a certain pattern could be inputed into the form.  
+    - For the booking form input field type "tel" I have used the pattern attribute value provided by [Martin Wolf](https://martinwolf.org/before-2018/blog/2015/04/html5-telephone-input-validation/) 2015. This assured that only numeric numbers in a certain pattern could be inputted into the form.  
     
     - All other code was written by myself: Ana Ramos Barretto
 
@@ -335,4 +338,4 @@ The user experience for the website is build with 3 personas in mind. Each perso
 
 ## Acknowledgements
 
-A huge thanks to my mentor Samantha Dartnall, the CI slack community and tutoring team, the Proud Unicorns hackathon team, and my friends who tested this website at least 1000x. 
+A huge thanks to my mentor Samantha Dartnall, the CI slack community and tutoring team, the Proud Unicorns hackathon team, and my friends who tested the website at least 1000x. 
