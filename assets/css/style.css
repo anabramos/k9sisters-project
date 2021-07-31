@@ -876,7 +876,7 @@ th, td {
     }
     
     #cover-text p {
-        display: none;
+        font-size: 15px;
     }
 
     .submit-button , .reset-button, .homepage-button {
