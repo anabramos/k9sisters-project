@@ -159,23 +159,25 @@ The website uses a combination of Bebas Neue & Montserra fonts, with a fall back
 This website makes use of icons from Font Awesome to give a new visual element and reinforce the content already displayed. The Icons are used to indicate social media links on the website's footer and make a distinction in the types of activities/services provided by the K9 Sisters.
 
 ## Technologies Used
-### Languages
-- [HTML5](https://en.wikipedia.org/wiki/HTML)
-- [CSS](https://en.wikipedia.org/wiki/CSS)
 
-### Libraries & Frameworks
- - [Google Fonts](https://fonts.google.com/)
- - [Font Awesome](https://fontawesome.com/)
+- Languages
+    - [HTML5](https://en.wikipedia.org/wiki/HTML)
+    - [CSS](https://en.wikipedia.org/wiki/CSS)
 
- ### Tools
- - [Gitpod](https://www.gitpod.io/)
- - [Github](https://github.com/)
- - [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
- - [Moqups](https://moqups.com/)
- - [Coolors (color schemes generator)](https://coolors.co/)
- - [Unsplash](https://unsplash.com/)
- - [W3C HTML Validation Service](https://validator.w3.org/)
- - [W3C CSS Validation Service](https://validator.w3.org/)
+- Libraries & Frameworks
+    - [Google Fonts](https://fonts.google.com/)
+    - [Font Awesome](https://fontawesome.com/)
+
+- Tools
+    - [Gitpod](https://www.gitpod.io/)
+    - [Github](https://github.com/)
+    - [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
+    - [Moqups](https://moqups.com/)
+    - [Coolors (color schemes generator)](https://coolors.co/)
+    - [Unsplash](https://unsplash.com/)
+    - [W3C HTML Validation Service](https://validator.w3.org/)
+    - [W3C CSS Validation Service](https://validator.w3.org/)
+    - [Am I Responsive?](http://ami.responsivedesign.is/)
 
  ## Credits
 
