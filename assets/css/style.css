@@ -157,7 +157,6 @@ input:focus {
 /* animation slide-left for cover text*/
 
 .slide-left {  
-
     animation: 4s slide-left;
 }
  
