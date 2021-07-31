@@ -70,7 +70,7 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 
 - Newsletter confirmation section
     - The user receives a confirmation message that his subscription has been received. 
-    - A button is also offering the user to return to the homepage
+    - A button is also offering the user to return to the homepage.
 
         <img src="assets/design/features/newsletter-confirmation-section.png" style="width: 40%">
 
@@ -103,7 +103,7 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 
 - Booking confirmation
     - The user receives a confirmation message that his booking has been confirmed. 
-    - A button is also offering the user to return to the homepage
+    - A button is also offering the user to return to the homepage.
 
         <img src="assets/design/features/booking-confirmation.png" style="width: 40%">
 
@@ -122,12 +122,12 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 
 ### Features to be implemented
 
-- Implement carrousel gallery of testimonials from clients in the homepage
-- In the booking form give the possibility for users to add extra dogs to the bookings (for those who have more than one dog)
+- Implement carrousel gallery of testimonials from clients in the homepage.
+- In the booking form give the possibility for users to add extra dogs to the bookings (for those who have more than one dog).
 - Have a personalized booking confirmation page using the data inputted into the form (i.e. naming the dog's name and time of pick-up). 
-- Payment processing feature
-- Create account/log-in features for regular clients 
-
+- Payment processing feature.
+- Create account/log-in features for regular clients.
+- 
 
 <a name="testing"></a>
 
@@ -166,7 +166,7 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 Friends of mine tested the website in their own mobiles, laptops, etc. The website was also submitted in the peer-code-review channel on the CI Slack community.  
 
  - Overall Navigation 
-    - No issues reported
+    - No issues reported.
 
 - Website Responsiveness
     - Issue reported with footer spacing on screen widths larger than 1256px. Changes to address this issue were implemented by giving containers and background a minimum height (in viewport height). 
@@ -186,7 +186,7 @@ While building the website a lot of things were not working as expected. As I us
 
 - Horizontal scroll present on small screen devices, normally caused by the margin or padding or other elements that create overflow. After identifying which element was creating the overflow I fixed it by changing the value of the left and right margin/padding. 
 
-- Footer with a lot of space beneath it caused by HTML documents with very few content. I solved this by adding a minimum height value (viewport height measurement) to the respective container and background of the page that was presenting this bug. This assures the footer stayed on the bottom of the page
+- Footer with a lot of space beneath it caused by HTML documents with very few content. I solved this by adding a minimum height value (viewport height measurement) to the respective container and background of the page that was presenting this bug. This assures the footer stayed on the bottom of the page.
 
 <a name="validator-testing"></a>
 
@@ -240,7 +240,7 @@ The website was deployed using GitHub Pages. For that, the following steps were 
 1. From the GitHub repository page go to 'Settings'.
 2. From 'Settings', scroll until the 'GitHub Pages' section.
 3. At the 'GitHub Pages' section open the dedicated GitHub Pages tab by clicking on the link.
-4. In the new tab select the main branch using the dropdown menu and click 'Save'
+4. In the new tab select the main branch using the dropdown menu and click 'Save'.
 5. A link will be provided where the website is now published.
 
 - Forking
@@ -255,30 +255,30 @@ The website was deployed using GitHub Pages. For that, the following steps were 
 The user experience for the website is built with 3 personas in mind. Each persona presents a different user story and different goals when accessing the website. 
 
 - Personas 
-    - Persona 1: Frequent costumer
-    - Persona 2: Sporadic costumer
-    - Persona 3: Potential costumer (first time visitor)
+    - Persona 1: Frequent costumer.
+    - Persona 2: Sporadic costumer.
+    - Persona 3: Potential costumer (first time visitor).
 
 - User stories
 
     - A Frequent consumer:
         - I already know the brand and make use of their services on a regular basis.
         - I trust and vouch that their service is of quality.
-        - I want to be directed to the booking form quickly. (Solution: Direct link to booking form on navigation bar)
-        - I want to receive tips and updates related to their blog and potential holiday discounts. (Solution: Possibility to subscribe to the newsletter)
+        - I want to be directed to the booking form quickly (Solution: Direct link to booking form on navigation bar).
+        - I want to receive tips and updates related to their blog and potential holiday discounts (Solution: Possibility to subscribe to the newsletter).
 
     - A Sporadic consumer:
         - I already know the brand and make use of their services sporadically.
         - I trust their service is of quality.
-        - I want to check the prices of the services easily as I may have forgotten it since my last booking. (Solution: Direct link to services overview on navigation bar)
-        - While in the website, I might be interested in reading their latest article piece with tips on how to care for my pup. (Solution: Direct link to blog on navigation bar)
+        - I want to check the prices of the services easily as I may have forgotten it since my last booking (Solution: Direct link to services overview on navigation bar).
+        - While in the website, I might be interested in reading their latest article piece with tips on how to care for my pup (Solution: Direct link to blog on navigation bar).
 
     - A Potential consumer:
         - I am a first time visitor to the website. I do not know the brand and have never used their services.
-        - I do not trust the brand (yet) and would like to be convinced they are trustworthy. (Solution: Testimonials from clients avaliable on the homepage)
-        - I want to have a clear overview of the services provided. (Solution: Direct link to services overview on navigation bar)
-        - I want to be able to meet the people who will take care of my dog before making a decision. (Solution: Option to book a free meet & greet session)
-        - I want to have a financial incentive to committing with my first booking. (Solution: Discount on the first booking if you sign the newsletter)
+        - I do not trust the brand (yet) and would like to be convinced they are trustworthy (Solution: Testimonials from clients avaliable on the homepage).
+        - I want to have a clear overview of the services provided (Solution: Direct link to services overview on navigation bar).
+        - I want to be able to meet the people who will take care of my dog before making a decision (Solution: Option to book a free meet & greet session).
+        - I want to have a financial incentive to committing with my first booking (Solution: Discount on the first booking if you sign the newsletter).
 
 - K9 Company goals with the website:
     - Attract more customers.
@@ -291,11 +291,12 @@ The user experience for the website is built with 3 personas in mind. Each perso
 ## Design
 
 - Colors
-    - The website colors are inspired by the complimentary colors of orange and blue. It uses different shades of blue to create contrast between text and background, and the orange is used to reinforce borders and highlight certain features/sections in the website. 
-    <img src="assets/design/color-palette/mycolors.jpg" style="width: 60%" style="height: 120px">
+    - The website colors are inspired by the complimentary colors of orange and blue. It uses different shades of blue to create contrast between text and background, and the orange is used to reinforce borders and highlight certain features/sections in the website.
+
+        <img src="assets/design/color-palette/mycolors.jpg" style="width: 60%" style="height: 120px">
 
 - Fonts
-    - The website uses a combination of Bebas Neue & Montserra fonts, with a fall back to sans-serif. These fonts are popularly paired together. Bebas Neue is used in the website for high-level headings while Montserra is used for regular text and low level headings. The fonts were compared and taken from [Google Fonts](https://fonts.google.com/)
+    - The website uses a combination of Bebas Neue & Montserra fonts, with a fall back to sans-serif. These fonts are popularly paired together. Bebas Neue is used in the website for high-level headings while Montserra is used for regular text and low level headings. The fonts were compared and taken from [Google Fonts](https://fonts.google.com/).
 
 - Icons
     - This website makes use of icons from [Font Awesome](https://fontawesome.com/) to give a new visual element and reinforce the content already displayed. The Icons are used to indicate social media links on the website's footer and make a distinction in the types of activities/services provided by the K9 Sisters.
@@ -338,7 +339,7 @@ The user experience for the website is built with 3 personas in mind. Each perso
  
     - For the booking form input field type "tel" I have used the pattern attribute value provided by [Martin Wolf](https://martinwolf.org/before-2018/blog/2015/04/html5-telephone-input-validation/) 2015. This assured that only numeric numbers in a certain pattern could be inputted into the form.  
     
-    - All other code was written by myself: Ana Ramos Barretto
+    - All other code was written by myself: Ana Ramos Barretto.
 
 - Media
 
