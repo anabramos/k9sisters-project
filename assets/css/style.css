@@ -499,8 +499,9 @@ th, td {
     font-family: 'Bebas Neue', cursive, sans-serif;
     text-align: left;
     margin: 15px;
+    padding: 10px;
     font-size: 200%;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
 }
 
 .blog-post p {
