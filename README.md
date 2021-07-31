@@ -92,6 +92,10 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
     #### Full Article page
     - The visitor ca read the full article content in this page.
 
+    <img src="assets/design/features/blog-page.png" style="width: 40%">
+    <img src="assets/design/features/blog-full.png" style="width: 50%">
+
+
 ## Testing
 
 ### Validator Testing
