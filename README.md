@@ -109,7 +109,35 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 - No errors or warnings returned from the [W3C CSS Validator Service](https://jigsaw.w3.org/css-validator/)
 
 #### Accessibility
-- The website has been tested on lighthouse for accessibility and received a score of 100 for all pages, except the booking page that scroed 96.
+- The color pallet and contrast for the website was tested on [WebAIM](https://webaim.org/resources/contrastchecker/)
+- The website has been tested on lighthouse for accessibility. 
+    - index.html
+        
+        <img src="assets/design/lighthouse/acessibility-index.png" style="width: 50%">
+
+    - services.html
+
+        <img src="assets/design/lighthouse/acessibility-services.png" style="width: 50%">
+
+    - booking.html
+
+        <img src="assets/design/lighthouse/acessibility-booking.png" style="width: 50%">
+
+    - blog.html
+
+        <img src="assets/design/lighthouse/acessibility-blog.png" style="width: 50%">
+
+    - booking-confirmation.html
+
+        <img src="assets/design/lighthouse/acessibility-confirmation-booking.png" style="width: 50%">
+
+    - newsletter.confirmation.html
+
+        <img src="assets/design/lighthouse/acessibility-confirmation-newsletter.png" style="width: 50%">
+
+    - blog-post-1.html/ blog-post-2.html/ blog-post-3.html/ blog-post-4.html
+
+        <img src="assets/design/lighthouse/acessibility-full-blog.png" style="width: 50%">
 
 ## User Experience (UX)
 The user experience for the website is build with 3 personas in mind. Each persona presents a different user story and different goals when accessing the website. 
@@ -178,6 +206,7 @@ K9 Company goals with the website:
     - [W3C HTML Validation Service](https://validator.w3.org/)
     - [W3C CSS Validation Service](https://validator.w3.org/)
     - [Am I Responsive?](http://ami.responsivedesign.is/)
+    - [WebAIM](https://webaim.org/resources/contrastchecker/)
 
  ## Credits
 
