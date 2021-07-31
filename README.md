@@ -16,10 +16,14 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 - An orange underline appears static under the menu page the visiot is current in to give clarity of the navigation. A thicker orange underline appears when the mouse hovers on the other pages that are currently not opened (active).
 - The K9 Sisters logo also functions as an anchor link to the homepage.
 
+<img src="assets/design/features/navigation-bar.png" style="width: 80%" style="height: 100px">
+
 ### Hero Image & cover text
 - The hero image brings a very clear picture of the focus of the website together with its cover text. Here a visitor immediately knows what are the k9 Sisters and what they will be able to find in this website.
 - A short animation is present in the cover text to call the atention of the visitor to the message on the text.
 - For the mobile version, in the cover text we see only the name of the company not to echo with the hero image.
+
+<img src="assets/design/features/hero-image-feature.png" style="width: 60%">
 
 ### About Us section
 - The about us section presents to the visitor the people behind K9 Sisters in a nice and funny way as well as the mission of the company. The text is accompanied by an old image of the two sisters who started out the K9 Sisters.
