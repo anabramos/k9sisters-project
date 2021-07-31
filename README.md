@@ -70,6 +70,8 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 ### Services page
 - In the services page visitors can access the full overview of services provided by the K9 Sister company as well as the prices per service. 
 
+<img src="assets/design/features/services-overview.png" style="width: 40%">
+
 ### Booking page
 - In the booking page there is a form for users to book their services as prefered. All fiels are required for the booking except the 'allergies' field since this field might also not apply. 
 - The form collects data related to the owner (contact details) the dog (general details) and the service the costumer is booking (type of service, date of service and paymenth method of choice).
