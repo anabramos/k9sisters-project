@@ -867,6 +867,10 @@ th, td {
     .width-50 {
         width: 100%;
     }
+
+    iframe {
+        margin: 0px 15px;
+    }
 }
 
 /* For screen sizes from 480px wide or smaller*/
