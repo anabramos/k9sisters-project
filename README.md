@@ -16,7 +16,7 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 - An orange underline appears static under the menu page the visiot is current in to give clarity of the navigation. A thicker orange underline appears when the mouse hovers on the other pages that are currently not opened (active).
 - The K9 Sisters logo also functions as an anchor link to the homepage.
 
-<img src="assets/design/features/navigation-bar.png" style="width: 80%" style="height: 100px">
+<img src="assets/design/features/navigation-bar.png" style="width: 60%" style="height: 100px">
 
 ### Hero Image & cover text
 - The hero image brings a very clear picture of the focus of the website together with its cover text. Here a visitor immediately knows what are the k9 Sisters and what they will be able to find in this website.
@@ -65,7 +65,7 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 - The footer will re-direct the user to our respective social medias by opening the external pages in a new tab on the browser. 
 - The footer also credits the creator of the website. 
 
-<img src="assets/design/features/footer.png" style="width: 80%">
+<img src="assets/design/features/footer.png" style="width: 60%">
 
 ### Services page
 - In the services page visitors can access the full overview of services provided by the K9 Sister company as well as the prices per service. 
@@ -83,7 +83,7 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
     - A button is also offering the user to return to the homepage
 
     <img src="assets/design/features/booking-form.png" style="width: 30%">
-    <img src="assets/design/features/booking-confirmation.png" style="width: 60%">
+    <img src="assets/design/features/booking-confirmation.png" style="width: 40%">
 
 
 ### Blog page
@@ -103,6 +103,9 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 - Compatibility
     - The website was tested and it is working on different browsers: Chrome, Firefox, Internet Explorer/Microsoft Edge.
 
+- Responsiveness
+    - Tested on different devices. The website is responsive on screen widths from 2560px to 320px.
+
 - Navigation bar
     - All internal links within all pages from the navigation bar are working and opening the correct desired page.
 
@@ -121,7 +124,6 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
     - All social media links are working and opening on a separate new tab on the browser.
     - In the iframe map when cliked on "View larger maps", the link opens on a separate new tab on the browser.
 
-
 ### User level Testing
 Friends of mine tested the website in their own mobiles, laptops, etc. The website was also submitted in the peer-code-review channel on the CI Slack community.  
 
@@ -130,8 +132,8 @@ Friends of mine tested the website in their own mobiles, laptops, etc. The websi
 
 - Website Responsiveness
     - Issue reported with footer spacing on screen widths larger than 1256px. Changes to address this issue were implemented by giving containers and background a minimum height in vh. 
-    - Issue reported with font-size being too small on screen sizes with width 1024px to 768px.
-    - Issue reported with alignment of iframe map in mobile screens being too close to the left instead of central. 
+    - Issue reported with font-size being too small on screen sizes with width 1024px to 768px. Changes to address this issue were implemented by giving font-sizes a relative units of measurements. 
+    - Issue reported with alignment of iframe map in mobile screens being too close to the left instead of central. Changes to address this issue were implemented by giving the element a specific margin whithin the respective media query.
 
 - Booking form
     - Issue reported with mobile number field that was accepting non numeral input. Changes to address this issue were implemented by using an existing pattern attribute (see credits section of this document).
@@ -141,7 +143,18 @@ Friends of mine tested the website in their own mobiles, laptops, etc. The websi
 
 ### Deployment
 
-- The website was deployed using GitHub Pages.
+- The website was deployed using GitHub Pages. For that, the following steps were taken:
+    1. From the GitHub repository page go to 'Settings'.
+    2. From 'Settings', scroll until the 'GitHub Pages' section.
+    3. At the 'GitHub Pages' section open the dedicated GitHub Pages tab by clicking on the link.
+    4. In the new tab select the main branch using the dropdown menu and click 'Save'
+    5. A link will be provided where the website is now published.
+
+- Forking
+    - To use this project as a reference or starting point, or even to propose changes to it, you can fork this repository by following these steps: 
+        1. From the GitHub repository page click on 'Fork' in the top-right corner.
+        2. Create a new repository with a new name based on this project. 
+        3. Make sure to credit the project in case you decide to use any of the original code.
 
 ### Validator Testing
 
