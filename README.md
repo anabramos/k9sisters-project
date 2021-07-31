@@ -179,55 +179,53 @@ This website makes use of icons from Font Awesome to give a new visual element a
 
  ## Credits
 
- ### Content
+- Content
  
+    - For the booking form input field type "tel" I have used the pattern attribute value provided by [Martin Wolf](https://martinwolf.org/before-2018/blog/2015/04/html5-telephone-input-validation/) 2015. This assured that only numeric numbers in a certain pattern could be inputed into the form. 
 - For the booking form input field type "tel" I have used the pattern attribute value provided by [Martin Wolf](https://martinwolf.org/before-2018/blog/2015/04/html5-telephone-input-validation/) 2015. This assured that only numeric numbers in a certain pattern could be inputed into the form. 
+    - For the booking form input field type "tel" I have used the pattern attribute value provided by [Martin Wolf](https://martinwolf.org/before-2018/blog/2015/04/html5-telephone-input-validation/) 2015. This assured that only numeric numbers in a certain pattern could be inputed into the form. 
+    
+    - All other code was written by myself: Ana Ramos Barretto
 
-All other code was written by myself: Ana Ramos Barretto
+- Media
 
- ### Media
-All images for this website were taken from [Unsplash](https://unsplash.com/).
+    - All images for this website were taken from [Unsplash](https://unsplash.com/).
 
-#### index.html
+        - index.html
 
-Hero-image: Photo by [Anna Dudkova](https://unsplash.com/@annadudkova) on [Unsplash](https://unsplash.com/)
+            - Hero-image: Photo by [Anna Dudkova](https://unsplash.com/@annadudkova) 
 
-Two young girls holding a dog: Photo by [Leah Hetteberg](https://unsplash.com/@leahhetteberg) on [Unsplash](https://unsplash.com/)
+            - Two young girls holding a dog: Photo by [Leah Hetteberg](https://unsplash.com/@leahhetteberg) 
 
-Four dogs on a leash in a park: Photo by [Matt Nelson](https://unsplash.com/@mnelson) on [Unsplash](https://unsplash.com/)
+            - Four dogs on a leash in a park: Photo by [Matt Nelson](https://unsplash.com/@mnelson) 
 
-Brown short coated sog lying on a grey dog bed under a blanket: Photo by [Jaime Street](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com/)
+            - Brown short coated sog lying on a grey dog bed under a blanket: Photo by [Jaime Street](https://unsplash.com/@jamie452) 
 
-Border Collie jumping through a yellow training hoop: Photo by [Andrea Lightfoot](https://unsplash.com/@andreaelphotography) on [Unsplash](https://unsplash.com/)
+            - Border Collie jumping through a yellow training hoop: Photo by [Andrea Lightfoot](https://unsplash.com/@andreaelphotography)
 
-Dog wearing a shirt and a hat: Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio) on [Unsplash](https://unsplash.com/)
+            - Dog wearing a shirt and a hat: Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio) 
 
-Hairy dog kissing woman in black shirt: Photo by [Tamas Pap](https://unsplash.com/@tamasp) on [Unsplash](https://unsplash.com/)
+            - Hairy dog kissing woman in black shirt: Photo by [Tamas Pap](https://unsplash.com/@tamasp) 
 
-Long-coated brown dog wearing sun glasses: Photo by [Alan King](https://unsplash.com/@alanking) on [Unsplash](https://unsplash.com/)
+            - Long-coated brown dog wearing sun glasses: Photo by [Alan King](https://unsplash.com/@alanking) 
 
-#### booking.html
+        - booking-confrimation.html
 
-Black and white dog carrying small basketball: Photo by [Stainless Images](https://unsplash.com/@ramone) on [Unsplash](https://unsplash.com/)
+            - Brown and white pomeranian working on an iPad: Photo by [Cookie de Pom](https://unsplash.com/@cookiethepom) 
 
-#### booking-confrimation.html
+        - newsletter-confirmation.html
 
-Brown and white pomeranian working on an iPad: Photo by [Cookie de Pom](https://unsplash.com/@cookiethepom) on [Unsplash](https://unsplash.com/)
+            - Brown and white long haired dog sitting on a desk with 2 screens: Photo by [Pavel Herceg](https://unsplash.com/@pavelherceg)
 
-#### newsletter-confirmation.html
+        - blog.html
 
-Brown and white long haired dog sitting on a desk with 2 screens: Photo by [Pavel Herceg](https://unsplash.com/@pavelherceg) on [Unsplash](https://unsplash.com/)
+            - Brown labrador retriever drinking water from a fountain: Photo by [Rafael Ishkhanyan](https://unsplash.com/@rafael_ishkhanyan)
 
-#### blog.html
+            - Brown long coated dog drying paws on blue towel: Photo by [Jaime Street](https://unsplash.com/@jamie452) 
 
-Brown labrador retriever drinking water from a fountain: Photo by [Rafael Ishkhanyan
-](https://unsplash.com/@rafael_ishkhanyan) on [Unsplash](https://unsplash.com/)
+            - Woman gives biscuits to two seated dogs: Photo by [Chewy](https://unsplash.com/@chewy)
 
-Brown long coated dog drying paws on blue towel: Photo by [Jaime Street](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com/)
-
-Woman gives biscuits to two seated dogs: Photo by [Chewy](https://unsplash.com/@chewy) on [Unsplash](https://unsplash.com/)
-
-Dog treats on wooden table: Photo by [Susan Q Yin](https://unsplash.com/@syinq) on [Unsplash](https://unsplash.com/)
+            - Dog treats on wooden table: Photo by [Susan Q Yin](https://unsplash.com/@syinq)
 
 ## Acknowledgements
 
