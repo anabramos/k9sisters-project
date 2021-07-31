@@ -77,9 +77,14 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 - The form collects data related to the owner (contact details) the dog (general details) and the service the costumer is booking (type of service, date of service and paymenth method of choice).
 - After filling in the form, the costumer can submit the form or clear (reset) its content.
 - When a form is submitted,  the visitor is directed to a confirmation page.
+
     #### Booking confirmation
     - The user receives a confirmation message that his booking has been confirmed. 
     - A button is also offering the user to return to the homepage
+
+    <img src="assets/design/features/booking-form.png" style="width: 30%">
+    <img src="assets/design/features/booking-confirmation.png" style="width: 60%">
+
 
 ### Blog page
 - In the blog page visitors can have access to a range of dog related content, created by the K9 Sistsers. 
