@@ -25,7 +25,6 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 - [Credits](#credits)
 - [Acknowledgements](#acknowledgements)
 
-
 <a name="features"></a>
 
 ## Features
@@ -265,27 +264,27 @@ The user experience for the website is built with 3 personas in mind. Each perso
     - A Frequent consumer:
         - I already know the brand and make use of their services on a regular basis.
         - I trust and vouch that their service is of quality.
-        - I want to be directed to the booking form quickly. 
-        - I want to receive tips and updates related to their blog and potential holiday discounts. 
+        - I want to be directed to the booking form quickly. (Solution: Direct link to booking form on navigation bar)
+        - I want to receive tips and updates related to their blog and potential holiday discounts. (Solution: Possibility to subscribe to the newsletter)
 
     - A Sporadic consumer:
         - I already know the brand and make use of their services sporadically.
-        - I trust their service is pf quality.
-        - I want to check the prices of the services easily as I may have forgotten it since my last booking.
-        - While in the website, I might be interested in reading their latest article piece with tips on how to care for my pup.
+        - I trust their service is of quality.
+        - I want to check the prices of the services easily as I may have forgotten it since my last booking. (Solution: Direct link to services overview on navigation bar)
+        - While in the website, I might be interested in reading their latest article piece with tips on how to care for my pup. (Solution: Direct link to blog on navigation bar)
 
     - A Potential consumer:
         - I am a first time visitor to the website. I do not know the brand and have never used their services.
-        - I do not trust the brand (yet) and would like to be convinced they are trustworthy.
-        - I want to have a clear overview of the services provided. 
-        - I want to be able to meet the people who will take care of my dog before making a decision.
-        - I want to have a financial incentive to committing with my first booking.
+        - I do not trust the brand (yet) and would like to be convinced they are trustworthy. (Solution: Testimonials from clients avaliable on the homepage)
+        - I want to have a clear overview of the services provided. (Solution: Direct link to services overview on navigation bar)
+        - I want to be able to meet the people who will take care of my dog before making a decision. (Solution: Option to book a free meet & greet session)
+        - I want to have a financial incentive to committing with my first booking. (Solution: Discount on the first booking if you sign the newsletter)
 
 - K9 Company goals with the website:
-    - Attract more customers
-    - Generate returning costumers
-    - Demonstrate professionalism, competence and qualification in the services provided
-    - Get potential customers to sin to our newsletter and book a meet & greet session
+    - Attract more customers.
+    - Generate returning costumers.
+    - Demonstrate professionalism, competence and qualification in the services provided.
+    - Get potential customers to sign to our newsletter and book a meet & greet session.
 
 <a name="design"></a>
 
