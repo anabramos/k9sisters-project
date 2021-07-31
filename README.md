@@ -112,7 +112,8 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
     - The website was tested and it is working on different browsers: Chrome, Firefox, Internet Explorer/Microsoft Edge.
 
 - Responsiveness
-    - Tested on different devices. The website is responsive on screen widths from 2560px to 320px.
+    - Tested on different devices using Chrome Dev Tools and other devices from myself and friends. 
+    - The website is responsive on screen widths from 2560px to 320px.
 
 - Navigation bar
     - All internal links within all pages from the navigation bar are working and opening the correct desired page.
@@ -148,6 +149,17 @@ Friends of mine tested the website in their own mobiles, laptops, etc. The websi
 
 - Newsletter subscription
     - No issues reported.
+
+### Bugs
+While building the website a lot of things were not working as expected. As I used only HTML5 and CSS, most of the 'bugs' are as a matter of fact just a mis-use of CSS styling. This happened mostly because in the begginig of the process of building the website I was using id attributes and selectors to style my HTML. Half-way trough the process I realized the best approach was to create more general CCS style class rules and use those to create the behavious expected on the HTML documents. These fixes and changes can be seen in my commit messages documentation, initiated by the prefix 'fix:' or 'style: fix'. Some recurrent bugs I encountered were:
+
+- Horizontal scroll present on small screen devices, normally caused by the margin or padding or other elements thatcreate overflow. After identifying which element was creating the overflow I fixed it by changing the value of the left and right margin/padding. 
+
+- Footer with a lot of space beneath it caused by HTML documents with very few content. I solved this by adding a minimum height value (viewport heigh measurement) to the respective container and background of the page that was presenting this bug. This assures the footer stayed stucked to the bottom of the page
+
+- 
+
+
 
 ### Deployment
 
