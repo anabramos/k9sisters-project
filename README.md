@@ -148,15 +148,15 @@ K9 Company goals with the website:
 
 ## Design
 
-### Colors
-The webiste colors are inspired by the complimentary colors of orange and blue. It uses different shades of blue to create contrast between text and background, and the orange is used to reinforce borders and highlight certain features/sections in the website. 
-<img src="assets/design/color-palette/mycolors.jpg" style="width: 60%" style="height: 120px">
+- Colors
+    - The webiste colors are inspired by the complimentary colors of orange and blue. It uses different shades of blue to create contrast between text and background, and the orange is used to reinforce borders and highlight certain features/sections in the website. 
+    <img src="assets/design/color-palette/mycolors.jpg" style="width: 60%" style="height: 120px">
 
-### Fonts
-The website uses a combination of Bebas Neue & Montserra fonts, with a fall back to sans-serif. These fonts are popularly paired together. Bebas Neue is used in the website for high-level headings while Montserra is used for regular text and low level headings. The fonts were compared and taken from [Google Fonts](https://fonts.google.com/)
+- Fonts
+    - The website uses a combination of Bebas Neue & Montserra fonts, with a fall back to sans-serif. These fonts are popularly paired together. Bebas Neue is used in the website for high-level headings while Montserra is used for regular text and low level headings. The fonts were compared and taken from [Google Fonts](https://fonts.google.com/)
 
-### Icons
-This website makes use of icons from Font Awesome to give a new visual element and reinforce the content already displayed. The Icons are used to indicate social media links on the website's footer and make a distinction in the types of activities/services provided by the K9 Sisters.
+- Icons
+    - This website makes use of icons from Font Awesome to give a new visual element and reinforce the content already displayed. The Icons are used to indicate social media links on the website's footer and make a distinction in the types of activities/services provided by the K9 Sisters.
 
 ## Technologies Used
 
