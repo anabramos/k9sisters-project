@@ -10,12 +10,23 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 <img src="assets/design/am-i-responsive/am-i-responsive.png" style="width: 60%" />
 
 ## Table of Contents
-1. [Features](#features)
-2. 
-3. 
-4. 
+- [Features](#features)
+    * [Features to be Implemented](#features-to-be-implemented)
+- [Testing](#testing)
+    * [Component level Testing](#component-level-testing)
+    * [User level Testing](#user-level-testing)
+    * [Bugs](#bugs)
+    * [Validator Testing](#validator-testing)
+    * [Accessibility](#accessibility)
+- [Deployment](#deployment)
+- [User Experience (UX)](#user-experience-ux)
+- [Design](#design)
+- [Technologies Used](#technologies-used)
+- [Credits](#credits)
+- [Acknowledgements](#acknowledgements)
 
-<a name="features">
+
+<a name="features"></a>
 
 ## Features
 
@@ -108,14 +119,22 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 
         <img src="assets/design/features/blog-full.png" style="width: 50%">
 
+<a name="features-to-be-implemented"></a>
+
 ### Features to be implemented
+
 - Implement carrousel gallery of testimonials from clients in the homepage
 - In the booking form give the possibility for users to add extra dogs to the bookings (for those who have more than one dog)
 - Have a personalized booking confirmation page using the data inputted into the form (i.e. naming the dog's name and time of pick-up). 
 - Payment processing feature
 - Create account/log-in features for regular clients 
 
+
+<a name="testing"></a>
+
 ## Testing
+
+<a name="component-level-testing"></a>
 
 ### Component level Testing
 
@@ -142,6 +161,8 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
     - All social media links are working and opening on a separate new tab on the browser.
     - In the iframe map when clicked on "View larger maps", the link opens on a separate new tab on the browser.
 
+<a name="user-level-testing"></a>
+
 ### User level Testing
 Friends of mine tested the website in their own mobiles, laptops, etc. The website was also submitted in the peer-code-review channel on the CI Slack community.  
 
@@ -159,12 +180,16 @@ Friends of mine tested the website in their own mobiles, laptops, etc. The websi
 - Newsletter subscription
     - No issues reported.
 
+<a name="bugs"></a>
+
 ### Bugs
 While building the website a lot of things were not working as expected. As I used only HTML5 and CSS, most of the 'bugs' are as a matter of fact just a miss-use of CSS styling. This happened mostly because in the beginning of the process of building the website I was using id attributes and selectors to style my HTML. Half-way through the process I realized the best approach was to create more general CCS style class rules and use those to create the behaviors expected on the HTML documents. These fixes and changes can be seen in my commit messages documentation, initiated by the prefix 'fix:' or 'style: fix'. Some recurrent bugs I encountered were:
 
 - Horizontal scroll present on small screen devices, normally caused by the margin or padding or other elements that create overflow. After identifying which element was creating the overflow I fixed it by changing the value of the left and right margin/padding. 
 
 - Footer with a lot of space beneath it caused by HTML documents with very few content. I solved this by adding a minimum height value (viewport height measurement) to the respective container and background of the page that was presenting this bug. This assures the footer stayed on the bottom of the page
+
+<a name="validator-testing"></a>
 
 ### Validator Testing
 
@@ -173,6 +198,8 @@ While building the website a lot of things were not working as expected. As I us
 
 - CSS
     - No errors or warnings returned from the [W3C CSS Validator Service](https://jigsaw.w3.org/css-validator/)
+
+<a name="accessibility"></a>
 
 ### Accessibility
 
@@ -206,6 +233,8 @@ While building the website a lot of things were not working as expected. As I us
 
         <img src="assets/design/lighthouse/acessibility-full-blog.png" style="width: 50%">
 
+<a name="deployment"></a>
+
 ## Deployment
 
 The website was deployed using GitHub Pages. For that, the following steps were taken:
@@ -220,6 +249,8 @@ The website was deployed using GitHub Pages. For that, the following steps were 
         1. From the GitHub repository page click on 'Fork' in the top-right corner.
         2. Create a new repository with a new name based on this project. 
         3. Make sure to credit the project in case you decide to use any of the original code.
+
+<a name="user-experience-ux"></a>
 
 ## User Experience (UX)
 The user experience for the website is built with 3 personas in mind. Each persona presents a different user story and different goals when accessing the website. 
@@ -256,6 +287,8 @@ The user experience for the website is built with 3 personas in mind. Each perso
     - Demonstrate professionalism, competence and qualification in the services provided
     - Get potential customers to sin to our newsletter and book a meet & greet session
 
+<a name="design"></a>
+
 ## Design
 
 - Colors
@@ -273,6 +306,8 @@ The user experience for the website is built with 3 personas in mind. Each perso
 
 - Wireframes 
     - I have used [Moqups](https://moqups.com/) to draft my wireframes. These can be found in their respective folder 'wireframes' under the project's assets folder.
+
+<a name="techlonogies-used"></a>
 
 ## Technologies Used
 
@@ -295,6 +330,8 @@ The user experience for the website is built with 3 personas in mind. Each perso
     - [W3C CSS Validation Service](https://validator.w3.org/)
     - [Am I Responsive?](http://ami.responsivedesign.is/)
     - [WebAIM](https://webaim.org/resources/contrastchecker/)
+
+<a name="credits"></a>
 
  ## Credits
 
@@ -343,6 +380,8 @@ The user experience for the website is built with 3 personas in mind. Each perso
             - Woman gives biscuits to two seated dogs: Photo by [Chewy](https://unsplash.com/@chewy)
 
             - Dog treats on wooden table: Photo by [Susan Q Yin](https://unsplash.com/@syinq)
+
+<a name="acknowledgements"></a>
 
 ## Acknowledgements
 
