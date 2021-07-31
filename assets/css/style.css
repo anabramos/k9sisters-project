@@ -531,7 +531,6 @@ th, td {
 
 .full-blog-post p {
     text-align: justify;
-    padding: 20px;
     margin: 0px 40px 0px 40px;
     line-height: 1.3rem;
 }
@@ -927,6 +926,14 @@ th, td {
     .blog-post img {
         max-width: 80%;
         height: 340px;
+    }
+
+    .full-blog-post img {
+        max-width: 80%;
+    }
+
+    .full-blog-post p {
+        margin: 0px 10px 0px 10px;
     }
 
     .form-group input, .form-group select {
