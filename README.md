@@ -97,6 +97,12 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 
         <img src="assets/design/features/blog-full.png" style="width: 50%">
 
+### Features to be implemented
+- Implement carroussel gallery of testimonials from clients in the homepage
+- In the booking form give the possibility for users to add extra dogs to the bookings (for those who have more than one dog)
+- Have a personalized booking confirmation page using the data inputed into the form (i.e. naming the dog's name and time of pick-up). 
+- Payment processing feature
+- Create account/log-in features for regular clients 
 
 ## Testing
 
