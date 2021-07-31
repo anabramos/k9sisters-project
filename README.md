@@ -5,7 +5,8 @@ K9 Sisters is a website for dog sitting services in Amsterdam-West. It is my fir
 
 The K9 Sisters project is a user centric (static) Front-End Development website for dog sitting services in Amsterdam-West and sorroundings. It is targeted at dog owners who live and/or work in Amsterdam-West and who make use of dog sitting services regularly or esporadically. 
 
-### Comment to myself: add link to deployed website
+Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-project/)
+
 ### Comment to myself: add mockup images
 
 ## Features
