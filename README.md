@@ -98,6 +98,8 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 
 ## Testing
 
+
+
 ### Validator Testing
 
 #### HTML
@@ -229,4 +231,4 @@ Dog treats on wooden table: Photo by [Susan Q Yin](https://unsplash.com/@syinq) 
 
 ## Acknowledgements
 
-Here I am going to write some nice things about people that helped me because apparently everyone does that
+A huge thanks to my mentor Samantha Dartnall, the CI slack community and tutoring team, the Proud Unicorns hackathon team, and my friends who tested this website at least 1000x. 
