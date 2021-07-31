@@ -197,12 +197,12 @@ While building the website a lot of things were not working as expected. As I us
 
 ## Deployment
 
-- The website was deployed using GitHub Pages. For that, the following steps were taken:
-    1. From the GitHub repository page go to 'Settings'.
-    2. From 'Settings', scroll until the 'GitHub Pages' section.
-    3. At the 'GitHub Pages' section open the dedicated GitHub Pages tab by clicking on the link.
-    4. In the new tab select the main branch using the dropdown menu and click 'Save'
-    5. A link will be provided where the website is now published.
+The website was deployed using GitHub Pages. For that, the following steps were taken:
+1. From the GitHub repository page go to 'Settings'.
+2. From 'Settings', scroll until the 'GitHub Pages' section.
+3. At the 'GitHub Pages' section open the dedicated GitHub Pages tab by clicking on the link.
+4. In the new tab select the main branch using the dropdown menu and click 'Save'
+5. A link will be provided where the website is now published.
 
 - Forking
     - To use this project as a reference or starting point, or even to propose changes to it, you can fork this repository by following these steps: 
@@ -256,6 +256,9 @@ The user experience for the website is build with 3 personas in mind. Each perso
 
 - Icons
     - This website makes use of icons from [Font Awesome](https://fontawesome.com/) to give a new visual element and reinforce the content already displayed. The Icons are used to indicate social media links on the website's footer and make a distinction in the types of activities/services provided by the K9 Sisters.
+
+- Images
+    - All images for this project were taken from [Unsplash](https://unsplash.com/). For further details on each image, please see the credits section of this README document. 
 
 - Wireframes 
     - I have used [Moqups](https://moqups.com/) to draft my wireframes. These can be found in their respective folder 'wireframes' under the project's assets folder.
