@@ -108,11 +108,9 @@ Link to live website: [K9 Sisters](https://anabramos.github.io/k9sisters-project
 
 ### Component level Testing
 
-- Compatibility
-    - The website was tested and it is working on different browsers: Chrome, Firefox, Internet Explorer/Microsoft Edge.
-
-- Responsiveness
-    - Tested on different devices using Chrome Dev Tools and other devices from myself and friends. 
+- Compatibility & Responsiveness
+    - The website was tested and it is working on different browsers: Google Chrome, Firefox, Internet Explorer/Microsoft Edge.
+    - Tested on different devices using Chrome DevTools and other avaliable from myself and friends. 
     - The website is responsive on screen widths from 2560px to 320px.
 
 - Navigation bar
@@ -157,25 +155,6 @@ While building the website a lot of things were not working as expected. As I us
 
 - Footer with a lot of space beneath it caused by HTML documents with very few content. I solved this by adding a minimum height value (viewport heigh measurement) to the respective container and background of the page that was presenting this bug. This assures the footer stayed stucked to the bottom of the page
 
-- 
-
-
-
-### Deployment
-
-- The website was deployed using GitHub Pages. For that, the following steps were taken:
-    1. From the GitHub repository page go to 'Settings'.
-    2. From 'Settings', scroll until the 'GitHub Pages' section.
-    3. At the 'GitHub Pages' section open the dedicated GitHub Pages tab by clicking on the link.
-    4. In the new tab select the main branch using the dropdown menu and click 'Save'
-    5. A link will be provided where the website is now published.
-
-- Forking
-    - To use this project as a reference or starting point, or even to propose changes to it, you can fork this repository by following these steps: 
-        1. From the GitHub repository page click on 'Fork' in the top-right corner.
-        2. Create a new repository with a new name based on this project. 
-        3. Make sure to credit the project in case you decide to use any of the original code.
-
 ### Validator Testing
 
 - HTML
@@ -215,6 +194,21 @@ While building the website a lot of things were not working as expected. As I us
     - blog-post-1.html/ blog-post-2.html/ blog-post-3.html/ blog-post-4.html
 
         <img src="assets/design/lighthouse/acessibility-full-blog.png" style="width: 50%">
+
+## Deployment
+
+- The website was deployed using GitHub Pages. For that, the following steps were taken:
+    1. From the GitHub repository page go to 'Settings'.
+    2. From 'Settings', scroll until the 'GitHub Pages' section.
+    3. At the 'GitHub Pages' section open the dedicated GitHub Pages tab by clicking on the link.
+    4. In the new tab select the main branch using the dropdown menu and click 'Save'
+    5. A link will be provided where the website is now published.
+
+- Forking
+    - To use this project as a reference or starting point, or even to propose changes to it, you can fork this repository by following these steps: 
+        1. From the GitHub repository page click on 'Fork' in the top-right corner.
+        2. Create a new repository with a new name based on this project. 
+        3. Make sure to credit the project in case you decide to use any of the original code.
 
 ## User Experience (UX)
 The user experience for the website is build with 3 personas in mind. Each persona presents a different user story and different goals when accessing the website. 
@@ -261,7 +255,10 @@ The user experience for the website is build with 3 personas in mind. Each perso
     - The website uses a combination of Bebas Neue & Montserra fonts, with a fall back to sans-serif. These fonts are popularly paired together. Bebas Neue is used in the website for high-level headings while Montserra is used for regular text and low level headings. The fonts were compared and taken from [Google Fonts](https://fonts.google.com/)
 
 - Icons
-    - This website makes use of icons from Font Awesome to give a new visual element and reinforce the content already displayed. The Icons are used to indicate social media links on the website's footer and make a distinction in the types of activities/services provided by the K9 Sisters.
+    - This website makes use of icons from [Font Awesome](https://fontawesome.com/) to give a new visual element and reinforce the content already displayed. The Icons are used to indicate social media links on the website's footer and make a distinction in the types of activities/services provided by the K9 Sisters.
+
+- Wireframes 
+    - I have used [Moqups](https://moqups.com/) to draft my wireframes. These can be found in their respective folder 'wireframes' under the project's assets folder.
 
 ## Technologies Used
 
