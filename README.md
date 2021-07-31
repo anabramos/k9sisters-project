@@ -73,7 +73,7 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 <img src="assets/design/features/services-overview.png" style="width: 40%">
 
 ### Booking page
-- In the booking page there is a form for users to book their services as prefered. All fiels are required for the booking except the 'allergies' field since this field might also not apply. 
+- In the booking page there is a form for users to book their services as prefered.
 - The form collects data related to the owner (contact details) the dog (general details) and the service the costumer is booking (type of service, date of service and paymenth method of choice).
 - After filling in the form, the costumer can submit the form or clear (reset) its content.
 - When a form is submitted,  the visitor is directed to a confirmation page.
@@ -98,17 +98,61 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 
 ## Testing
 
+### Component level Testing
 
+- Compatibility
+    - The website was tested and it is working on different browsers: Chrome, Firefox, Internet Explorer/Microsoft Edge.
+
+- Navigation bar
+    - All internal links within all pages from the navigation bar are working and opening the correct desired page.
+
+- Newsletter subscription
+    - The subscription form for the newsletter is working and redirecting users to the confirmation page.
+    - The e-mail input filed is required, which means it won't accept any subscriptions with empty data.
+    - The e-mail input field only accepts valid e-mail address with the correct e-mail syntax.
+
+- Booking form
+    - The booking form is working and redirecting users to the confirmation page.
+    - All input fiels are required for the booking except the 'allergies' field since this field might also not apply. If any of the fields is left blank, the user is asked to properly fill in the field.
+    - For the mobile number field (input type="tel") I have used a pattern provided by [Martin Wolf](https://martinwolf.org/before-2018/blog/2015/04/html5-telephone-input-validation/) (see credits section of this document) to assure that only valid numbers can be filled in the booking form. 
+    - The avalibility in the calenday was mannualy set to assure there is no possibility of booking services in the past or last minute. 
+
+- Social media links (footer)
+    - All social media links are working and opening on a separate new tab on the browser.
+    - In the iframe map when cliked on "View larger maps", the link opens on a separate new tab on the browser.
+
+
+### User level Testing
+Friends of mine tested the website in their own mobiles, laptops, etc. The website was also submitted in the peer-code-review channel on the CI Slack community.  
+
+ - Overall Navigation 
+    - No issues reported
+
+- Website Responsiveness
+    - Issue reported with footer spacing on screen widths larger than 1256px. Changes to address this issue were implemented by giving containers and background a minimum height in vh. 
+    - Issue reported with font-size being too small on screen sizes with width 1024px to 768px.
+    - Issue reported with alignment of iframe map in mobile screens being too close to the left instead of central. 
+
+- Booking form
+    - Issue reported with mobile number field that was accepting non numeral input. Changes to address this issue were implemented by using an existing pattern attribute (see credits section of this document).
+
+- Newsletter subscription
+    - No issues reported.
+
+### Deployment
+
+- The website was deployed using GitHub Pages.
 
 ### Validator Testing
 
-#### HTML
-- No errors or warnings returned from the [W3C Markup Validator Service](https://validator.w3.org/)
+- HTML
+    - No errors or warnings returned from the [W3C Markup Validator Service](https://validator.w3.org/)
 
-#### CSS
-- No errors or warnings returned from the [W3C CSS Validator Service](https://jigsaw.w3.org/css-validator/)
+- CSS
+    - No errors or warnings returned from the [W3C CSS Validator Service](https://jigsaw.w3.org/css-validator/)
 
-#### Accessibility
+### Accessibility
+
 - The color pallet and contrast for the website was tested on [WebAIM](https://webaim.org/resources/contrastchecker/)
 - The website has been tested on lighthouse for accessibility. 
     - index.html
