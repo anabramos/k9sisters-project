@@ -216,7 +216,7 @@ input:focus {
     text-align: center;
     margin: 20px 0px;
     font-size: 300%;
-    padding: 15px;
+    padding: 15px 0px;
     letter-spacing: 3px;
 }
 
