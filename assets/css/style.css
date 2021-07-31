@@ -675,7 +675,7 @@ th, td {
     }
     
     .service-card p , .testimonial-card p {
-        font-size: 80%;
+        font-size: 1rem;
     }
     
     .service-card h3 , .testimonial-card h3 {
@@ -771,7 +771,7 @@ th, td {
     }
     
     #about-us-text p {
-        font-size: 80%;
+        font-size: 1rem;
         padding: 0px;
         text-align: justify;
     }
@@ -835,7 +835,7 @@ th, td {
     }
 
     .blog-post p {
-        font-size: smaller;
+        font-size: 1rem;
     }
 
     .full-blog-post img {
@@ -848,15 +848,15 @@ th, td {
         margin: 12px;
         text-align: left;
         padding: 5px;
-        font-size: small;
+        font-size: 1rem;
     }
 
     .radio-button {
-        font-size: 80%;
+        font-size: 1rem;
     }
 
     #booking-form h3 {
-        font-size: 80%;
+        font-size: 1rem;
     }
 
 }
@@ -891,7 +891,7 @@ th, td {
     }
     
     #cover-text p {
-        font-size: 15px;
+        font-size: 16px;
     }
 
     img.about-us-image {
@@ -901,17 +901,17 @@ th, td {
 
     .submit-button , .reset-button, .homepage-button {
         margin: 10px 0px;
-        font-size: 10px;
-        height: 30px;
-        width: 120px;
+        font-size: 16px;
+        height: 40px;
+        width: 140px;
     }
 
     table {
-        width: 80%;
+        width: 90%;
     }
 
     th, td {
-        font-size: 12px;
+        font-size: 1rem;
     }
 
     .social-media i {
@@ -930,14 +930,6 @@ th, td {
     .blog-post img {
         max-width: 80%;
         height: 340px;
-    }
-    
-    .blog-post h3 {
-        font-size: 100%;
-    }
-    
-    .blog-post p {
-        font-size: smaller;
     }
 
     .form-group input, .form-group select {
