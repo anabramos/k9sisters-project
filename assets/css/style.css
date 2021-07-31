@@ -773,7 +773,7 @@ th, td {
     #about-us-text p {
         font-size: 1rem;
         padding: 0px;
-        text-align: justify;
+        text-align: center;
     }
     
     .service-card , .testimonial-card {
