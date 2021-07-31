@@ -55,10 +55,11 @@ Link to deplyed website: [K9 Sisters](https://anabramos.github.io/k9sisters-proj
 
 <img src="assets/design/features/newsletter-confirmation-section.png" style="width: 40%">
 
-
 ### Contact Us section
 - The contact us section provides information on how one can get in contact with the K9 SIsters via: telephone, e-mail and address. 
 - It also provides with an iframe map of the location where the business is located for reference and facilitating the visualization of the address in Amsterdam West.
+
+<img src="assets/design/features/contact-us-section.png" style="width: 60%">
 
 ### Footer
 - The footer will re-direct the user to our respective social medias by opening the external pages in a new tab on the browser. 
